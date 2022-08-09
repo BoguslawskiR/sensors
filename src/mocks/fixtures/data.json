@@ -1,0 +1,5852 @@
+{
+    "308398F99464": [
+        {
+            "status_id": 187487911,
+            "battery_level": 89,
+            "received_status_at": "2022-04-19 22:33:38.360944"
+        },
+        {
+            "status_id": 187490918,
+            "battery_level": 89,
+            "received_status_at": "2022-04-19 22:41:55.145841"
+        },
+        {
+            "status_id": 187495856,
+            "battery_level": 89,
+            "received_status_at": "2022-04-19 22:53:37.711884"
+        },
+        {
+            "status_id": 187537959,
+            "battery_level": 89,
+            "received_status_at": "2022-04-20 00:56:40.577682"
+        },
+        {
+            "status_id": 187592453,
+            "battery_level": 89,
+            "received_status_at": "2022-04-20 07:29:44.468625"
+        },
+        {
+            "status_id": 187613232,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 08:29:46.578693"
+        },
+        {
+            "status_id": 187651653,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 10:32:48.887194"
+        },
+        {
+            "status_id": 187696222,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 12:36:51.963615"
+        },
+        {
+            "status_id": 187739515,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 14:39:54.578601"
+        },
+        {
+            "status_id": 187782949,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 16:42:57.974721"
+        },
+        {
+            "status_id": 187826567,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 18:47:01.760632"
+        },
+        {
+            "status_id": 187870167,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 20:50:03.574689"
+        },
+        {
+            "status_id": 187913686,
+            "battery_level": 88,
+            "received_status_at": "2022-04-20 22:53:05.906015"
+        },
+        {
+            "status_id": 187957441,
+            "battery_level": 88,
+            "received_status_at": "2022-04-21 00:57:08.807011"
+        },
+        {
+            "status_id": 188012419,
+            "battery_level": 88,
+            "received_status_at": "2022-04-21 07:31:11.024132"
+        },
+        {
+            "status_id": 188033855,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 08:32:23.718516"
+        },
+        {
+            "status_id": 188072700,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 10:35:16.731721"
+        },
+        {
+            "status_id": 188117369,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 12:39:19.364336"
+        },
+        {
+            "status_id": 188160896,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 14:42:22.262140"
+        },
+        {
+            "status_id": 188204484,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 16:45:25.521213"
+        },
+        {
+            "status_id": 188248091,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 18:49:27.936294"
+        },
+        {
+            "status_id": 188290503,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 20:52:32.823720"
+        },
+        {
+            "status_id": 188333005,
+            "battery_level": 87,
+            "received_status_at": "2022-04-21 22:54:32.514446"
+        },
+        {
+            "status_id": 188376643,
+            "battery_level": 87,
+            "received_status_at": "2022-04-22 00:58:35.734198"
+        },
+        {
+            "status_id": 188430946,
+            "battery_level": 87,
+            "received_status_at": "2022-04-22 07:30:37.680394"
+        },
+        {
+            "status_id": 188452301,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 08:31:41.335828"
+        },
+        {
+            "status_id": 188491075,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 10:34:44.598664"
+        },
+        {
+            "status_id": 188535896,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 12:38:47.530877"
+        },
+        {
+            "status_id": 188579357,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 14:41:50.217481"
+        },
+        {
+            "status_id": 188622906,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 16:44:54.499625"
+        },
+        {
+            "status_id": 188666544,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 18:48:55.575713"
+        },
+        {
+            "status_id": 188710024,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 20:51:57.781314"
+        },
+        {
+            "status_id": 188753523,
+            "battery_level": 86,
+            "received_status_at": "2022-04-22 22:55:01.217273"
+        },
+        {
+            "status_id": 188797023,
+            "battery_level": 86,
+            "received_status_at": "2022-04-23 00:59:03.761460"
+        },
+        {
+            "status_id": 188850580,
+            "battery_level": 86,
+            "received_status_at": "2022-04-23 07:31:06.239415"
+        },
+        {
+            "status_id": 188871494,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 08:32:09.386320"
+        },
+        {
+            "status_id": 188909840,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 10:35:11.682904"
+        },
+        {
+            "status_id": 188953885,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 12:39:14.722132"
+        },
+        {
+            "status_id": 188996953,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 14:42:17.347558"
+        },
+        {
+            "status_id": 189040056,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 16:45:21.280158"
+        },
+        {
+            "status_id": 189083155,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 18:49:23.918202"
+        },
+        {
+            "status_id": 189126242,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 20:52:26.268175"
+        },
+        {
+            "status_id": 189169339,
+            "battery_level": 85,
+            "received_status_at": "2022-04-23 22:55:27.541765"
+        },
+        {
+            "status_id": 189212558,
+            "battery_level": 85,
+            "received_status_at": "2022-04-24 00:59:30.419793"
+        },
+        {
+            "status_id": 189265737,
+            "battery_level": 85,
+            "received_status_at": "2022-04-24 07:30:33.392071"
+        },
+        {
+            "status_id": 189287078,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 08:31:35.854465"
+        },
+        {
+            "status_id": 189325693,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 10:34:37.771810"
+        },
+        {
+            "status_id": 189370503,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 12:38:39.699059"
+        },
+        {
+            "status_id": 189413812,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 14:41:42.944945"
+        },
+        {
+            "status_id": 189457157,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 16:44:46.371253"
+        },
+        {
+            "status_id": 189500541,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 18:48:49.601380"
+        },
+        {
+            "status_id": 189543879,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 20:51:53.506472"
+        },
+        {
+            "status_id": 189587270,
+            "battery_level": 84,
+            "received_status_at": "2022-04-24 22:54:56.808853"
+        },
+        {
+            "status_id": 189630704,
+            "battery_level": 84,
+            "received_status_at": "2022-04-25 00:58:58.977875"
+        },
+        {
+            "status_id": 189684242,
+            "battery_level": 84,
+            "received_status_at": "2022-04-25 07:31:01.925920"
+        },
+        {
+            "status_id": 189705580,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 08:32:04.568463"
+        },
+        {
+            "status_id": 189744298,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 10:35:07.022096"
+        },
+        {
+            "status_id": 189788952,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 12:39:10.872497"
+        },
+        {
+            "status_id": 189832224,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 14:42:13.110811"
+        },
+        {
+            "status_id": 189875530,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 16:45:16.061260"
+        },
+        {
+            "status_id": 189918857,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 18:49:19.780528"
+        },
+        {
+            "status_id": 189962137,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 20:52:22.038897"
+        },
+        {
+            "status_id": 190005490,
+            "battery_level": 83,
+            "received_status_at": "2022-04-25 22:55:24.154559"
+        },
+        {
+            "status_id": 190049334,
+            "battery_level": 83,
+            "received_status_at": "2022-04-26 00:59:27.012041"
+        },
+        {
+            "status_id": 190104304,
+            "battery_level": 83,
+            "received_status_at": "2022-04-26 07:31:30.013000"
+        },
+        {
+            "status_id": 190125457,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 08:31:33.786924"
+        },
+        {
+            "status_id": 190164143,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 10:34:36.480659"
+        },
+        {
+            "status_id": 190208937,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 12:38:39.065543"
+        },
+        {
+            "status_id": 190252243,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 14:41:41.096976"
+        },
+        {
+            "status_id": 190295718,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 16:44:43.626884"
+        },
+        {
+            "status_id": 190339286,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 18:48:48.777400"
+        },
+        {
+            "status_id": 190383190,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 20:51:50.170763"
+        },
+        {
+            "status_id": 190427407,
+            "battery_level": 82,
+            "received_status_at": "2022-04-26 22:54:52.426949"
+        },
+        {
+            "status_id": 190471609,
+            "battery_level": 82,
+            "received_status_at": "2022-04-27 00:58:56.000468"
+        },
+        {
+            "status_id": 190526134,
+            "battery_level": 82,
+            "received_status_at": "2022-04-27 07:30:58.686092"
+        },
+        {
+            "status_id": 190547497,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 08:32:01.626082"
+        },
+        {
+            "status_id": 190586253,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 10:35:04.568102"
+        },
+        {
+            "status_id": 190630959,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 12:39:07.686196"
+        },
+        {
+            "status_id": 190674341,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 14:42:10.024656"
+        },
+        {
+            "status_id": 190718224,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 16:45:13.150359"
+        },
+        {
+            "status_id": 190762114,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 18:49:15.346273"
+        },
+        {
+            "status_id": 190806267,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 20:52:17.746643"
+        },
+        {
+            "status_id": 190850305,
+            "battery_level": 81,
+            "received_status_at": "2022-04-27 22:55:19.998652"
+        },
+        {
+            "status_id": 190894649,
+            "battery_level": 81,
+            "received_status_at": "2022-04-28 00:59:23.270112"
+        },
+        {
+            "status_id": 190950281,
+            "battery_level": 81,
+            "received_status_at": "2022-04-28 07:31:26.207258"
+        },
+        {
+            "status_id": 190971368,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 08:32:29.881206"
+        },
+        {
+            "status_id": 191010061,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 10:35:31.799943"
+        },
+        {
+            "status_id": 191054259,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 12:38:34.046248"
+        },
+        {
+            "status_id": 191097518,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 14:41:37.789191"
+        },
+        {
+            "status_id": 191141079,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 16:44:40.696764"
+        },
+        {
+            "status_id": 191184737,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 18:48:43.002800"
+        },
+        {
+            "status_id": 191228168,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 20:51:46.315315"
+        },
+        {
+            "status_id": 191271474,
+            "battery_level": 80,
+            "received_status_at": "2022-04-28 22:54:48.646053"
+        },
+        {
+            "status_id": 191315083,
+            "battery_level": 80,
+            "received_status_at": "2022-04-29 00:58:52.484406"
+        },
+        {
+            "status_id": 191370283,
+            "battery_level": 80,
+            "received_status_at": "2022-04-29 07:30:55.292907"
+        },
+        {
+            "status_id": 191391350,
+            "battery_level": 79,
+            "received_status_at": "2022-04-29 08:31:57.446433"
+        },
+        {
+            "status_id": 191429958,
+            "battery_level": 79,
+            "received_status_at": "2022-04-29 10:35:00.824661"
+        },
+        {
+            "status_id": 191474472,
+            "battery_level": 79,
+            "received_status_at": "2022-04-29 12:39:04.339001"
+        },
+        {
+            "status_id": 191517715,
+            "battery_level": 79,
+            "received_status_at": "2022-04-29 14:42:05.926213"
+        },
+        {
+            "status_id": 191561196,
+            "battery_level": 79,
+            "received_status_at": "2022-04-29 16:45:09.770057"
+        }
+    ],
+    "308398FA22C0": [
+        {
+            "status_id": 187488178,
+            "battery_level": 14,
+            "received_status_at": "2022-04-19 22:34:03.090861"
+        },
+        {
+            "status_id": 187490911,
+            "battery_level": 13,
+            "received_status_at": "2022-04-19 22:41:50.415053"
+        },
+        {
+            "status_id": 187521417,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 00:07:33.492150"
+        },
+        {
+            "status_id": 187564255,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 02:09:36.844287"
+        },
+        {
+            "status_id": 187604966,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 08:05:40.936393"
+        },
+        {
+            "status_id": 187633120,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 09:42:43.624730"
+        },
+        {
+            "status_id": 187678940,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 11:46:46.466320"
+        },
+        {
+            "status_id": 187722015,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 13:49:50.411558"
+        },
+        {
+            "status_id": 187765359,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 15:52:53.900951"
+        },
+        {
+            "status_id": 187808818,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 17:56:57.580338"
+        },
+        {
+            "status_id": 187852565,
+            "battery_level": 13,
+            "received_status_at": "2022-04-20 20:00:00.416790"
+        },
+        {
+            "status_id": 187896277,
+            "battery_level": 12,
+            "received_status_at": "2022-04-20 22:03:02.538468"
+        },
+        {
+            "status_id": 187939932,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 00:07:05.127277"
+        },
+        {
+            "status_id": 187983257,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 02:10:08.306966"
+        },
+        {
+            "status_id": 188012621,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 07:32:12.676151"
+        },
+        {
+            "status_id": 188034104,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 08:34:15.055449"
+        },
+        {
+            "status_id": 188073422,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 10:37:18.416957"
+        },
+        {
+            "status_id": 188118184,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 12:41:21.237336"
+        },
+        {
+            "status_id": 188161669,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 14:44:25.123139"
+        },
+        {
+            "status_id": 188205211,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 16:47:27.362778"
+        },
+        {
+            "status_id": 188248967,
+            "battery_level": 12,
+            "received_status_at": "2022-04-21 18:51:29.841782"
+        },
+        {
+            "status_id": 188291239,
+            "battery_level": 11,
+            "received_status_at": "2022-04-21 20:54:33.252184"
+        },
+        {
+            "status_id": 188333598,
+            "battery_level": 11,
+            "received_status_at": "2022-04-21 22:56:36.514216"
+        },
+        {
+            "status_id": 188377647,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 01:00:39.848069"
+        },
+        {
+            "status_id": 188431153,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 07:31:43.950519"
+        },
+        {
+            "status_id": 188452608,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 08:33:46.639733"
+        },
+        {
+            "status_id": 188491954,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 10:36:49.584848"
+        },
+        {
+            "status_id": 188536519,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 12:40:53.001139"
+        },
+        {
+            "status_id": 188580018,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 14:43:56.201353"
+        },
+        {
+            "status_id": 188623570,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 16:47:00.105723"
+        },
+        {
+            "status_id": 188667258,
+            "battery_level": 11,
+            "received_status_at": "2022-04-22 18:51:02.042181"
+        },
+        {
+            "status_id": 188710726,
+            "battery_level": 10,
+            "received_status_at": "2022-04-22 20:54:04.681727"
+        },
+        {
+            "status_id": 188754233,
+            "battery_level": 10,
+            "received_status_at": "2022-04-22 22:57:08.108236"
+        },
+        {
+            "status_id": 188798123,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 01:01:10.142933"
+        },
+        {
+            "status_id": 188850785,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 07:32:13.042277"
+        },
+        {
+            "status_id": 188871787,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 08:34:16.245978"
+        },
+        {
+            "status_id": 188910602,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 10:37:19.075478"
+        },
+        {
+            "status_id": 188954700,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 12:41:22.437736"
+        },
+        {
+            "status_id": 188997723,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 14:44:25.851367"
+        },
+        {
+            "status_id": 189040801,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 16:47:28.464899"
+        },
+        {
+            "status_id": 189084021,
+            "battery_level": 10,
+            "received_status_at": "2022-04-23 18:51:31.047515"
+        },
+        {
+            "status_id": 189126565,
+            "battery_level": 9,
+            "received_status_at": "2022-04-23 20:53:34.521094"
+        },
+        {
+            "status_id": 189169712,
+            "battery_level": 9,
+            "received_status_at": "2022-04-23 22:56:37.732905"
+        },
+        {
+            "status_id": 189213355,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 01:00:40.595264"
+        },
+        {
+            "status_id": 189265967,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 07:31:44.669154"
+        },
+        {
+            "status_id": 189287421,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 08:33:47.841583"
+        },
+        {
+            "status_id": 189326645,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 10:36:51.162897"
+        },
+        {
+            "status_id": 189371184,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 12:40:54.305691"
+        },
+        {
+            "status_id": 189414499,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 14:43:56.763572"
+        },
+        {
+            "status_id": 189457844,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 16:46:59.852970"
+        },
+        {
+            "status_id": 189501257,
+            "battery_level": 9,
+            "received_status_at": "2022-04-24 18:51:02.396279"
+        },
+        {
+            "status_id": 189544579,
+            "battery_level": 8,
+            "received_status_at": "2022-04-24 20:54:04.598390"
+        },
+        {
+            "status_id": 189588009,
+            "battery_level": 8,
+            "received_status_at": "2022-04-24 22:57:07.887102"
+        },
+        {
+            "status_id": 189631802,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 01:01:11.711292"
+        },
+        {
+            "status_id": 189684473,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 07:32:14.762188"
+        },
+        {
+            "status_id": 189705890,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 08:34:17.932600"
+        },
+        {
+            "status_id": 189745097,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 10:37:20.268068"
+        },
+        {
+            "status_id": 189789824,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 12:41:23.648343"
+        },
+        {
+            "status_id": 189833006,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 14:44:26.514947"
+        },
+        {
+            "status_id": 189876300,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 16:47:28.997720"
+        },
+        {
+            "status_id": 189919762,
+            "battery_level": 8,
+            "received_status_at": "2022-04-25 18:51:31.745446"
+        },
+        {
+            "status_id": 189962488,
+            "battery_level": 7,
+            "received_status_at": "2022-04-25 20:53:36.262612"
+        },
+        {
+            "status_id": 190005881,
+            "battery_level": 7,
+            "received_status_at": "2022-04-25 22:56:37.037009"
+        },
+        {
+            "status_id": 190050161,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 01:00:40.283074"
+        },
+        {
+            "status_id": 190104351,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 07:31:44.319134"
+        },
+        {
+            "status_id": 190125802,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 08:33:48.032159"
+        },
+        {
+            "status_id": 190165099,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 10:36:50.877909"
+        },
+        {
+            "status_id": 190209628,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 12:40:54.843191"
+        },
+        {
+            "status_id": 190252948,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 14:43:58.193915"
+        },
+        {
+            "status_id": 190296430,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 16:47:00.134665"
+        },
+        {
+            "status_id": 190340030,
+            "battery_level": 7,
+            "received_status_at": "2022-04-26 18:51:02.380618"
+        },
+        {
+            "status_id": 190383958,
+            "battery_level": 6,
+            "received_status_at": "2022-04-26 20:54:06.771291"
+        },
+        {
+            "status_id": 190428175,
+            "battery_level": 6,
+            "received_status_at": "2022-04-26 22:57:09.054188"
+        },
+        {
+            "status_id": 190472718,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 01:01:11.444213"
+        },
+        {
+            "status_id": 190526380,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 07:32:15.965735"
+        },
+        {
+            "status_id": 190547838,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 08:34:18.781777"
+        },
+        {
+            "status_id": 190587079,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 10:37:22.050998"
+        },
+        {
+            "status_id": 190631846,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 12:41:25.346229"
+        },
+        {
+            "status_id": 190675188,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 14:44:28.179898"
+        },
+        {
+            "status_id": 190719044,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 16:47:31.158546"
+        },
+        {
+            "status_id": 190762496,
+            "battery_level": 6,
+            "received_status_at": "2022-04-27 18:50:35.412717"
+        },
+        {
+            "status_id": 190806672,
+            "battery_level": 5,
+            "received_status_at": "2022-04-27 20:53:37.930642"
+        },
+        {
+            "status_id": 190850740,
+            "battery_level": 5,
+            "received_status_at": "2022-04-27 22:56:40.210124"
+        },
+        {
+            "status_id": 190895521,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 01:00:44.049956"
+        },
+        {
+            "status_id": 190950350,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 07:31:47.593126"
+        },
+        {
+            "status_id": 190971502,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 08:33:51.206361"
+        },
+        {
+            "status_id": 191010551,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 10:36:54.616008"
+        },
+        {
+            "status_id": 191055008,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 12:40:58.014424"
+        },
+        {
+            "status_id": 191098261,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 14:44:00.798701"
+        },
+        {
+            "status_id": 191141830,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 16:47:03.329206"
+        },
+        {
+            "status_id": 191185543,
+            "battery_level": 5,
+            "received_status_at": "2022-04-28 18:51:06.551383"
+        },
+        {
+            "status_id": 191228968,
+            "battery_level": 4,
+            "received_status_at": "2022-04-28 20:54:09.415371"
+        },
+        {
+            "status_id": 191272268,
+            "battery_level": 4,
+            "received_status_at": "2022-04-28 22:57:13.303781"
+        },
+        {
+            "status_id": 191316250,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 01:01:14.230257"
+        },
+        {
+            "status_id": 191370568,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 07:32:19.184206"
+        },
+        {
+            "status_id": 191391736,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 08:34:21.856961"
+        },
+        {
+            "status_id": 191430860,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 10:37:25.129667"
+        },
+        {
+            "status_id": 191475426,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 12:41:28.555979"
+        },
+        {
+            "status_id": 191518607,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 14:44:32.093896"
+        },
+        {
+            "status_id": 191561612,
+            "battery_level": 4,
+            "received_status_at": "2022-04-29 16:46:35.800343"
+        }
+    ],
+    "308398EFC02C": [
+        {
+            "status_id": 190021703,
+            "battery_level": 88,
+            "received_status_at": "2022-04-25 23:41:45.693368"
+        },
+        {
+            "status_id": 190044273,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 00:46:49.308332"
+        },
+        {
+            "status_id": 190067267,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 01:50:54.203687"
+        },
+        {
+            "status_id": 190083605,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 02:39:49.486158"
+        },
+        {
+            "status_id": 190094336,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 03:39:52.322753"
+        },
+        {
+            "status_id": 190099208,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 04:39:54.327195"
+        },
+        {
+            "status_id": 190101994,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 05:39:57.026192"
+        },
+        {
+            "status_id": 190368054,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:10:24.296738"
+        },
+        {
+            "status_id": 190372222,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:22:26.258471"
+        },
+        {
+            "status_id": 190390395,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 21:12:27.050415"
+        },
+        {
+            "status_id": 190408334,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:01:29.526898"
+        },
+        {
+            "status_id": 190425473,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:51:31.528067"
+        },
+        {
+            "status_id": 190443392,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 23:39:37.604459"
+        },
+        {
+            "status_id": 190460668,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 00:29:36.236874"
+        },
+        {
+            "status_id": 190478741,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 01:18:38.487928"
+        },
+        {
+            "status_id": 190521437,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 04:36:51.264074"
+        }
+    ],
+    "308398FA2104": [
+        {
+            "status_id": 187488475,
+            "battery_level": 88,
+            "received_status_at": "2022-04-19 22:34:28.669543"
+        },
+        {
+            "status_id": 187490902,
+            "battery_level": 87,
+            "received_status_at": "2022-04-19 22:41:46.830707"
+        },
+        {
+            "status_id": 187519217,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 00:00:30.886264"
+        },
+        {
+            "status_id": 187562218,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 02:03:33.808053"
+        },
+        {
+            "status_id": 187603887,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 08:02:37.392874"
+        },
+        {
+            "status_id": 187631099,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 09:36:40.993148"
+        },
+        {
+            "status_id": 187676690,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 11:39:42.190801"
+        },
+        {
+            "status_id": 187719920,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 13:43:45.606302"
+        },
+        {
+            "status_id": 187763282,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 15:46:49.848259"
+        },
+        {
+            "status_id": 187806488,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 17:49:52.319212"
+        },
+        {
+            "status_id": 187850297,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 19:53:55.733379"
+        },
+        {
+            "status_id": 187893874,
+            "battery_level": 86,
+            "received_status_at": "2022-04-20 21:56:58.143690"
+        },
+        {
+            "status_id": 187937469,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 00:00:01.369844"
+        },
+        {
+            "status_id": 187981199,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 02:04:04.757307"
+        },
+        {
+            "status_id": 188013102,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 07:33:09.608334"
+        },
+        {
+            "status_id": 188034716,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 08:36:09.734772"
+        },
+        {
+            "status_id": 188074015,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 10:39:12.138429"
+        },
+        {
+            "status_id": 188118861,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 12:43:15.925899"
+        },
+        {
+            "status_id": 188162489,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 14:46:19.303821"
+        },
+        {
+            "status_id": 188205640,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 16:49:22.648184"
+        },
+        {
+            "status_id": 188249677,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 18:53:26.226144"
+        },
+        {
+            "status_id": 188292033,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 20:56:28.445707"
+        },
+        {
+            "status_id": 188334442,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 22:59:31.059446"
+        },
+        {
+            "status_id": 188378077,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 01:02:34.318221"
+        },
+        {
+            "status_id": 188431369,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 07:32:37.715608"
+        },
+        {
+            "status_id": 188452973,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 08:35:41.290533"
+        },
+        {
+            "status_id": 188492536,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 10:38:44.663345"
+        },
+        {
+            "status_id": 188537175,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 12:42:47.482874"
+        },
+        {
+            "status_id": 188580727,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 14:45:52.027147"
+        },
+        {
+            "status_id": 188624141,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 16:48:54.984255"
+        },
+        {
+            "status_id": 188667935,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 18:52:58.165566"
+        },
+        {
+            "status_id": 188711464,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 20:56:01.630240"
+        },
+        {
+            "status_id": 188754736,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 22:59:05.276190"
+        },
+        {
+            "status_id": 188798828,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 01:03:06.100243"
+        },
+        {
+            "status_id": 188851256,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 07:33:10.688339"
+        },
+        {
+            "status_id": 188872388,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 08:36:11.363118"
+        },
+        {
+            "status_id": 188911198,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 10:39:14.189190"
+        },
+        {
+            "status_id": 188955359,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 12:43:17.561277"
+        },
+        {
+            "status_id": 188998537,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 14:46:19.956274"
+        },
+        {
+            "status_id": 189041208,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 16:49:23.306144"
+        },
+        {
+            "status_id": 189084747,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 18:53:27.762029"
+        },
+        {
+            "status_id": 189127866,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 20:56:29.882234"
+        },
+        {
+            "status_id": 189170545,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 22:59:31.856966"
+        },
+        {
+            "status_id": 189213760,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 01:02:34.726260"
+        },
+        {
+            "status_id": 189266193,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 07:32:39.236409"
+        },
+        {
+            "status_id": 189287777,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 08:35:42.915668"
+        },
+        {
+            "status_id": 189327210,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 10:38:45.361196"
+        },
+        {
+            "status_id": 189371783,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 12:42:48.720297"
+        },
+        {
+            "status_id": 189415176,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 14:45:52.584983"
+        },
+        {
+            "status_id": 189458379,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 16:48:54.350223"
+        },
+        {
+            "status_id": 189501894,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 18:52:57.852802"
+        },
+        {
+            "status_id": 189545277,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 20:55:59.150715"
+        },
+        {
+            "status_id": 189588488,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 22:59:02.923695"
+        },
+        {
+            "status_id": 189632527,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 01:03:06.515208"
+        },
+        {
+            "status_id": 189684935,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 07:33:08.901243"
+        },
+        {
+            "status_id": 189706489,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 08:36:11.979384"
+        },
+        {
+            "status_id": 189745715,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 10:39:14.338197"
+        },
+        {
+            "status_id": 189790477,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 12:43:18.202594"
+        },
+        {
+            "status_id": 189833840,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 14:46:20.219682"
+        },
+        {
+            "status_id": 189876718,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 16:49:22.861253"
+        },
+        {
+            "status_id": 189920437,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 18:53:25.806094"
+        },
+        {
+            "status_id": 189963764,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 20:56:29.178072"
+        },
+        {
+            "status_id": 190006720,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 22:59:32.971265"
+        },
+        {
+            "status_id": 190050592,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 01:02:35.313603"
+        },
+        {
+            "status_id": 190104590,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 07:32:40.078393"
+        },
+        {
+            "status_id": 190126202,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 08:35:45.527451"
+        },
+        {
+            "status_id": 190165655,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 10:38:45.903299"
+        },
+        {
+            "status_id": 190210259,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 12:42:48.731984"
+        },
+        {
+            "status_id": 190253667,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 14:45:52.660591"
+        },
+        {
+            "status_id": 190296965,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 16:48:55.937561"
+        },
+        {
+            "status_id": 190340673,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 18:52:58.118257"
+        },
+        {
+            "status_id": 190384665,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 20:56:00.131009"
+        },
+        {
+            "status_id": 190428685,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 22:59:04.041608"
+        },
+        {
+            "status_id": 190473445,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 01:03:06.431503"
+        },
+        {
+            "status_id": 190526830,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 07:33:09.404786"
+        },
+        {
+            "status_id": 190548427,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 08:36:11.140458"
+        },
+        {
+            "status_id": 190587680,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 10:39:14.316310"
+        },
+        {
+            "status_id": 190632440,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 12:43:15.875044"
+        },
+        {
+            "status_id": 190675962,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 14:46:18.589950"
+        },
+        {
+            "status_id": 190719447,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 16:49:21.017044"
+        },
+        {
+            "status_id": 190763724,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 18:53:23.517012"
+        },
+        {
+            "status_id": 190807922,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 20:56:26.339518"
+        },
+        {
+            "status_id": 190851589,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 22:59:28.565305"
+        },
+        {
+            "status_id": 190896796,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 01:03:31.432841"
+        },
+        {
+            "status_id": 190950523,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 07:32:34.968894"
+        },
+        {
+            "status_id": 190971809,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 08:35:38.653212"
+        },
+        {
+            "status_id": 191011104,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 10:38:41.486037"
+        },
+        {
+            "status_id": 191055560,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 12:42:45.737737"
+        },
+        {
+            "status_id": 191098890,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 14:45:47.709744"
+        },
+        {
+            "status_id": 191142359,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 16:48:51.082390"
+        },
+        {
+            "status_id": 191186136,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 18:52:54.234325"
+        },
+        {
+            "status_id": 191229637,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 20:55:57.220149"
+        },
+        {
+            "status_id": 191272750,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 22:59:01.094494"
+        },
+        {
+            "status_id": 191316918,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 01:03:03.465844"
+        },
+        {
+            "status_id": 191371002,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 07:33:07.335177"
+        },
+        {
+            "status_id": 191392322,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 08:36:10.182249"
+        },
+        {
+            "status_id": 191431460,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 10:39:14.026703"
+        },
+        {
+            "status_id": 191476024,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 12:43:17.036487"
+        },
+        {
+            "status_id": 191519397,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 14:46:19.733334"
+        },
+        {
+            "status_id": 191562444,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 16:49:23.120931"
+        }
+    ],
+    "308398C06ED4": [
+        {
+            "status_id": 187561474,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:01:52.358753"
+        },
+        {
+            "status_id": 187562246,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:03:40.338479"
+        },
+        {
+            "status_id": 187564985,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:12:33.070172"
+        },
+        {
+            "status_id": 187585531,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 03:56:01.061063"
+        },
+        {
+            "status_id": 187585695,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 03:57:05.610580"
+        },
+        {
+            "status_id": 187591679,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 06:00:07.360657"
+        },
+        {
+            "status_id": 187673268,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 11:30:11.151040"
+        },
+        {
+            "status_id": 187716344,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 13:33:15.028206"
+        },
+        {
+            "status_id": 187759793,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 15:37:19.476646"
+        },
+        {
+            "status_id": 187803117,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 17:40:26.180046"
+        },
+        {
+            "status_id": 187846724,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 19:43:26.717615"
+        },
+        {
+            "status_id": 187890589,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 21:47:28.498380"
+        },
+        {
+            "status_id": 187933865,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 23:50:31.248442"
+        },
+        {
+            "status_id": 187976913,
+            "battery_level": 34,
+            "received_status_at": "2022-04-21 01:52:34.229209"
+        },
+        {
+            "status_id": 188004572,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 03:56:38.294122"
+        },
+        {
+            "status_id": 188010772,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 05:59:40.121291"
+        },
+        {
+            "status_id": 188080841,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 10:57:45.945365"
+        },
+        {
+            "status_id": 188112581,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 12:27:49.923155"
+        },
+        {
+            "status_id": 188156245,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 14:31:52.878800"
+        },
+        {
+            "status_id": 188199789,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 16:34:56.131171"
+        },
+        {
+            "status_id": 188243284,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 18:37:57.943703"
+        },
+        {
+            "status_id": 188286159,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 20:42:02.092321"
+        },
+        {
+            "status_id": 188328765,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 22:45:04.715589"
+        },
+        {
+            "status_id": 188372237,
+            "battery_level": 33,
+            "received_status_at": "2022-04-22 00:48:10.253047"
+        },
+        {
+            "status_id": 188415037,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 02:52:12.461428"
+        },
+        {
+            "status_id": 188427678,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 04:55:16.390753"
+        },
+        {
+            "status_id": 188499719,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 10:58:22.209419"
+        },
+        {
+            "status_id": 188531424,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 12:28:24.356019"
+        },
+        {
+            "status_id": 188575203,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 14:32:28.810616"
+        },
+        {
+            "status_id": 188618692,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 16:35:32.104539"
+        },
+        {
+            "status_id": 188661739,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 18:37:35.378151"
+        },
+        {
+            "status_id": 188705535,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 20:41:37.791976"
+        },
+        {
+            "status_id": 188749028,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 22:44:41.795155"
+        },
+        {
+            "status_id": 188792455,
+            "battery_level": 32,
+            "received_status_at": "2022-04-23 00:47:44.454197"
+        },
+        {
+            "status_id": 188834923,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 02:51:48.273847"
+        },
+        {
+            "status_id": 188847363,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 04:54:52.142116"
+        },
+        {
+            "status_id": 188917991,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 10:57:57.640969"
+        },
+        {
+            "status_id": 188949232,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 12:28:01.350131"
+        },
+        {
+            "status_id": 188992454,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 14:32:05.156135"
+        },
+        {
+            "status_id": 189035550,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 16:35:08.916726"
+        },
+        {
+            "status_id": 189078523,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 18:38:13.350287"
+        },
+        {
+            "status_id": 189121863,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 20:42:17.175520"
+        },
+        {
+            "status_id": 189165009,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 22:45:19.454843"
+        },
+        {
+            "status_id": 189207984,
+            "battery_level": 31,
+            "received_status_at": "2022-04-24 00:48:23.638067"
+        },
+        {
+            "status_id": 189250348,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 02:52:28.147960"
+        },
+        {
+            "status_id": 189262667,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 04:55:30.474897"
+        },
+        {
+            "status_id": 189334108,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 10:57:35.485793"
+        },
+        {
+            "status_id": 189365796,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 12:27:40.924347"
+        },
+        {
+            "status_id": 189409220,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 14:31:42.561306"
+        },
+        {
+            "status_id": 189452552,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 16:34:44.522428"
+        },
+        {
+            "status_id": 189495840,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 18:37:48.783253"
+        },
+        {
+            "status_id": 189539521,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 20:41:55.023620"
+        },
+        {
+            "status_id": 189582918,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 22:44:57.164969"
+        },
+        {
+            "status_id": 189626201,
+            "battery_level": 30,
+            "received_status_at": "2022-04-25 00:48:00.900311"
+        },
+        {
+            "status_id": 189668663,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 02:52:01.955989"
+        },
+        {
+            "status_id": 189681050,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 04:55:06.034245"
+        },
+        {
+            "status_id": 189752690,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 10:58:12.145225"
+        },
+        {
+            "status_id": 189784355,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 12:28:13.682539"
+        },
+        {
+            "status_id": 189827860,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 14:32:18.128808"
+        },
+        {
+            "status_id": 189871169,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 16:35:23.739581"
+        },
+        {
+            "status_id": 189914311,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 18:38:25.130118"
+        },
+        {
+            "status_id": 189957830,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 20:42:29.212509"
+        },
+        {
+            "status_id": 190001202,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 22:45:30.372322"
+        },
+        {
+            "status_id": 190044642,
+            "battery_level": 29,
+            "received_status_at": "2022-04-26 00:47:36.207813"
+        },
+        {
+            "status_id": 190087408,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 02:51:36.777565"
+        },
+        {
+            "status_id": 190100475,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 04:54:40.855100"
+        },
+        {
+            "status_id": 190172616,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 10:57:46.334239"
+        },
+        {
+            "status_id": 190204280,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 12:27:50.067207"
+        },
+        {
+            "status_id": 190247817,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 14:31:55.403540"
+        },
+        {
+            "status_id": 190291235,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 16:34:57.805386"
+        },
+        {
+            "status_id": 190334694,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 18:38:02.144278"
+        },
+        {
+            "status_id": 190378842,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 20:42:04.921806"
+        },
+        {
+            "status_id": 190423079,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 22:45:09.462663"
+        },
+        {
+            "status_id": 190467062,
+            "battery_level": 28,
+            "received_status_at": "2022-04-27 00:48:10.613935"
+        },
+        {
+            "status_id": 190510036,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 02:52:15.073045"
+        },
+        {
+            "status_id": 190522834,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 04:55:18.902555"
+        },
+        {
+            "status_id": 190594731,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 10:58:24.510577"
+        },
+        {
+            "status_id": 190626439,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 12:28:28.166681"
+        },
+        {
+            "status_id": 190670090,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 14:32:32.419716"
+        },
+        {
+            "status_id": 190713364,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 16:34:34.670926"
+        },
+        {
+            "status_id": 190757184,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 18:37:38.746599"
+        },
+        {
+            "status_id": 190801657,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 20:41:42.088431"
+        },
+        {
+            "status_id": 190845738,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 22:44:50.742785"
+        },
+        {
+            "status_id": 190889920,
+            "battery_level": 27,
+            "received_status_at": "2022-04-28 00:47:47.664920"
+        },
+        {
+            "status_id": 190933301,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 02:51:52.023029"
+        },
+        {
+            "status_id": 190946524,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 04:54:55.700073"
+        },
+        {
+            "status_id": 191018154,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 10:58:00.866331"
+        },
+        {
+            "status_id": 191049741,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 12:28:04.537921"
+        },
+        {
+            "status_id": 191093251,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 14:32:09.260574"
+        },
+        {
+            "status_id": 191136810,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 16:35:13.213042"
+        },
+        {
+            "status_id": 191180347,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 18:38:25.615781"
+        },
+        {
+            "status_id": 191224031,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 20:42:19.481157"
+        },
+        {
+            "status_id": 191267332,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 22:45:20.652382"
+        },
+        {
+            "status_id": 191310660,
+            "battery_level": 26,
+            "received_status_at": "2022-04-29 00:48:24.944479"
+        },
+        {
+            "status_id": 191353594,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 02:52:29.719646"
+        },
+        {
+            "status_id": 191366721,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 04:55:31.906669"
+        },
+        {
+            "status_id": 191438154,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 10:57:36.305217"
+        },
+        {
+            "status_id": 191469715,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 12:27:40.050219"
+        },
+        {
+            "status_id": 191513071,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 14:31:42.991375"
+        },
+        {
+            "status_id": 191556544,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 16:34:47.837629"
+        }
+    ],
+    "308398EF302C": [
+        {
+            "status_id": 190021703,
+            "battery_level": 88,
+            "received_status_at": "2022-04-25 23:41:45.693368"
+        },
+        {
+            "status_id": 190044273,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 00:46:49.308332"
+        },
+        {
+            "status_id": 190067267,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 01:50:54.203687"
+        },
+        {
+            "status_id": 190083605,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 02:39:49.486158"
+        },
+        {
+            "status_id": 190094336,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 03:39:52.322753"
+        },
+        {
+            "status_id": 190099208,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 04:39:54.327195"
+        },
+        {
+            "status_id": 190101994,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 05:39:57.026192"
+        },
+        {
+            "status_id": 190368054,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:10:24.296738"
+        },
+        {
+            "status_id": 190372222,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:22:26.258471"
+        },
+        {
+            "status_id": 190390395,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 21:12:27.050415"
+        },
+        {
+            "status_id": 190408334,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:01:29.526898"
+        },
+        {
+            "status_id": 190425473,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:51:31.528067"
+        },
+        {
+            "status_id": 190443392,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 23:39:37.604459"
+        },
+        {
+            "status_id": 190460668,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 00:29:36.236874"
+        },
+        {
+            "status_id": 190478741,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 01:18:38.487928"
+        },
+        {
+            "status_id": 190521437,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 04:36:51.264074"
+        }
+    ],
+    "308398FA3104": [
+        {
+            "status_id": 187488475,
+            "battery_level": 88,
+            "received_status_at": "2022-04-19 22:34:28.669543"
+        },
+        {
+            "status_id": 187490902,
+            "battery_level": 87,
+            "received_status_at": "2022-04-19 22:41:46.830707"
+        },
+        {
+            "status_id": 187519217,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 00:00:30.886264"
+        },
+        {
+            "status_id": 187562218,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 02:03:33.808053"
+        },
+        {
+            "status_id": 187603887,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 08:02:37.392874"
+        },
+        {
+            "status_id": 187631099,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 09:36:40.993148"
+        },
+        {
+            "status_id": 187676690,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 11:39:42.190801"
+        },
+        {
+            "status_id": 187719920,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 13:43:45.606302"
+        },
+        {
+            "status_id": 187763282,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 15:46:49.848259"
+        },
+        {
+            "status_id": 187806488,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 17:49:52.319212"
+        },
+        {
+            "status_id": 187850297,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 19:53:55.733379"
+        },
+        {
+            "status_id": 187893874,
+            "battery_level": 86,
+            "received_status_at": "2022-04-20 21:56:58.143690"
+        },
+        {
+            "status_id": 187937469,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 00:00:01.369844"
+        },
+        {
+            "status_id": 187981199,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 02:04:04.757307"
+        },
+        {
+            "status_id": 188013102,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 07:33:09.608334"
+        },
+        {
+            "status_id": 188034716,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 08:36:09.734772"
+        },
+        {
+            "status_id": 188074015,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 10:39:12.138429"
+        },
+        {
+            "status_id": 188118861,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 12:43:15.925899"
+        },
+        {
+            "status_id": 188162489,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 14:46:19.303821"
+        },
+        {
+            "status_id": 188205640,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 16:49:22.648184"
+        },
+        {
+            "status_id": 188249677,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 18:53:26.226144"
+        },
+        {
+            "status_id": 188292033,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 20:56:28.445707"
+        },
+        {
+            "status_id": 188334442,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 22:59:31.059446"
+        },
+        {
+            "status_id": 188378077,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 01:02:34.318221"
+        },
+        {
+            "status_id": 188431369,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 07:32:37.715608"
+        },
+        {
+            "status_id": 188452973,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 08:35:41.290533"
+        },
+        {
+            "status_id": 188492536,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 10:38:44.663345"
+        },
+        {
+            "status_id": 188537175,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 12:42:47.482874"
+        },
+        {
+            "status_id": 188580727,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 14:45:52.027147"
+        },
+        {
+            "status_id": 188624141,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 16:48:54.984255"
+        },
+        {
+            "status_id": 188667935,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 18:52:58.165566"
+        },
+        {
+            "status_id": 188711464,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 20:56:01.630240"
+        },
+        {
+            "status_id": 188754736,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 22:59:05.276190"
+        },
+        {
+            "status_id": 188798828,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 01:03:06.100243"
+        },
+        {
+            "status_id": 188851256,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 07:33:10.688339"
+        },
+        {
+            "status_id": 188872388,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 08:36:11.363118"
+        },
+        {
+            "status_id": 188911198,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 10:39:14.189190"
+        },
+        {
+            "status_id": 188955359,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 12:43:17.561277"
+        },
+        {
+            "status_id": 188998537,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 14:46:19.956274"
+        },
+        {
+            "status_id": 189041208,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 16:49:23.306144"
+        },
+        {
+            "status_id": 189084747,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 18:53:27.762029"
+        },
+        {
+            "status_id": 189127866,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 20:56:29.882234"
+        },
+        {
+            "status_id": 189170545,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 22:59:31.856966"
+        },
+        {
+            "status_id": 189213760,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 01:02:34.726260"
+        },
+        {
+            "status_id": 189266193,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 07:32:39.236409"
+        },
+        {
+            "status_id": 189287777,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 08:35:42.915668"
+        },
+        {
+            "status_id": 189327210,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 10:38:45.361196"
+        },
+        {
+            "status_id": 189371783,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 12:42:48.720297"
+        },
+        {
+            "status_id": 189415176,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 14:45:52.584983"
+        },
+        {
+            "status_id": 189458379,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 16:48:54.350223"
+        },
+        {
+            "status_id": 189501894,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 18:52:57.852802"
+        },
+        {
+            "status_id": 189545277,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 20:55:59.150715"
+        },
+        {
+            "status_id": 189588488,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 22:59:02.923695"
+        },
+        {
+            "status_id": 189632527,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 01:03:06.515208"
+        },
+        {
+            "status_id": 189684935,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 07:33:08.901243"
+        },
+        {
+            "status_id": 189706489,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 08:36:11.979384"
+        },
+        {
+            "status_id": 189745715,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 10:39:14.338197"
+        },
+        {
+            "status_id": 189790477,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 12:43:18.202594"
+        },
+        {
+            "status_id": 189833840,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 14:46:20.219682"
+        },
+        {
+            "status_id": 189876718,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 16:49:22.861253"
+        },
+        {
+            "status_id": 189920437,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 18:53:25.806094"
+        },
+        {
+            "status_id": 189963764,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 20:56:29.178072"
+        },
+        {
+            "status_id": 190006720,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 22:59:32.971265"
+        },
+        {
+            "status_id": 190050592,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 01:02:35.313603"
+        },
+        {
+            "status_id": 190104590,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 07:32:40.078393"
+        },
+        {
+            "status_id": 190126202,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 08:35:45.527451"
+        },
+        {
+            "status_id": 190165655,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 10:38:45.903299"
+        },
+        {
+            "status_id": 190210259,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 12:42:48.731984"
+        },
+        {
+            "status_id": 190253667,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 14:45:52.660591"
+        },
+        {
+            "status_id": 190296965,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 16:48:55.937561"
+        },
+        {
+            "status_id": 190340673,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 18:52:58.118257"
+        },
+        {
+            "status_id": 190384665,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 20:56:00.131009"
+        },
+        {
+            "status_id": 190428685,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 22:59:04.041608"
+        },
+        {
+            "status_id": 190473445,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 01:03:06.431503"
+        },
+        {
+            "status_id": 190526830,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 07:33:09.404786"
+        },
+        {
+            "status_id": 190548427,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 08:36:11.140458"
+        },
+        {
+            "status_id": 190587680,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 10:39:14.316310"
+        },
+        {
+            "status_id": 190632440,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 12:43:15.875044"
+        },
+        {
+            "status_id": 190675962,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 14:46:18.589950"
+        },
+        {
+            "status_id": 190719447,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 16:49:21.017044"
+        },
+        {
+            "status_id": 190763724,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 18:53:23.517012"
+        },
+        {
+            "status_id": 190807922,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 20:56:26.339518"
+        },
+        {
+            "status_id": 190851589,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 22:59:28.565305"
+        },
+        {
+            "status_id": 190896796,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 01:03:31.432841"
+        },
+        {
+            "status_id": 190950523,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 07:32:34.968894"
+        },
+        {
+            "status_id": 190971809,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 08:35:38.653212"
+        },
+        {
+            "status_id": 191011104,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 10:38:41.486037"
+        },
+        {
+            "status_id": 191055560,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 12:42:45.737737"
+        },
+        {
+            "status_id": 191098890,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 14:45:47.709744"
+        },
+        {
+            "status_id": 191142359,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 16:48:51.082390"
+        },
+        {
+            "status_id": 191186136,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 18:52:54.234325"
+        },
+        {
+            "status_id": 191229637,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 20:55:57.220149"
+        },
+        {
+            "status_id": 191272750,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 22:59:01.094494"
+        },
+        {
+            "status_id": 191316918,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 01:03:03.465844"
+        },
+        {
+            "status_id": 191371002,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 07:33:07.335177"
+        },
+        {
+            "status_id": 191392322,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 08:36:10.182249"
+        },
+        {
+            "status_id": 191431460,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 10:39:14.026703"
+        },
+        {
+            "status_id": 191476024,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 12:43:17.036487"
+        },
+        {
+            "status_id": 191519397,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 14:46:19.733334"
+        },
+        {
+            "status_id": 191562444,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 16:49:23.120931"
+        }
+    ],
+    "308398C03ED4": [
+        {
+            "status_id": 187561474,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:01:52.358753"
+        },
+        {
+            "status_id": 187562246,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:03:40.338479"
+        },
+        {
+            "status_id": 187564985,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:12:33.070172"
+        },
+        {
+            "status_id": 187585531,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 03:56:01.061063"
+        },
+        {
+            "status_id": 187585695,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 03:57:05.610580"
+        },
+        {
+            "status_id": 187591679,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 06:00:07.360657"
+        },
+        {
+            "status_id": 187673268,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 11:30:11.151040"
+        },
+        {
+            "status_id": 187716344,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 13:33:15.028206"
+        },
+        {
+            "status_id": 187759793,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 15:37:19.476646"
+        },
+        {
+            "status_id": 187803117,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 17:40:26.180046"
+        },
+        {
+            "status_id": 187846724,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 19:43:26.717615"
+        },
+        {
+            "status_id": 187890589,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 21:47:28.498380"
+        },
+        {
+            "status_id": 187933865,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 23:50:31.248442"
+        },
+        {
+            "status_id": 187976913,
+            "battery_level": 34,
+            "received_status_at": "2022-04-21 01:52:34.229209"
+        },
+        {
+            "status_id": 188004572,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 03:56:38.294122"
+        },
+        {
+            "status_id": 188010772,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 05:59:40.121291"
+        },
+        {
+            "status_id": 188080841,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 10:57:45.945365"
+        },
+        {
+            "status_id": 188112581,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 12:27:49.923155"
+        },
+        {
+            "status_id": 188156245,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 14:31:52.878800"
+        },
+        {
+            "status_id": 188199789,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 16:34:56.131171"
+        },
+        {
+            "status_id": 188243284,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 18:37:57.943703"
+        },
+        {
+            "status_id": 188286159,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 20:42:02.092321"
+        },
+        {
+            "status_id": 188328765,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 22:45:04.715589"
+        },
+        {
+            "status_id": 188372237,
+            "battery_level": 33,
+            "received_status_at": "2022-04-22 00:48:10.253047"
+        },
+        {
+            "status_id": 188415037,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 02:52:12.461428"
+        },
+        {
+            "status_id": 188427678,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 04:55:16.390753"
+        },
+        {
+            "status_id": 188499719,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 10:58:22.209419"
+        },
+        {
+            "status_id": 188531424,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 12:28:24.356019"
+        },
+        {
+            "status_id": 188575203,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 14:32:28.810616"
+        },
+        {
+            "status_id": 188618692,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 16:35:32.104539"
+        },
+        {
+            "status_id": 188661739,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 18:37:35.378151"
+        },
+        {
+            "status_id": 188705535,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 20:41:37.791976"
+        },
+        {
+            "status_id": 188749028,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 22:44:41.795155"
+        },
+        {
+            "status_id": 188792455,
+            "battery_level": 32,
+            "received_status_at": "2022-04-23 00:47:44.454197"
+        },
+        {
+            "status_id": 188834923,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 02:51:48.273847"
+        },
+        {
+            "status_id": 188847363,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 04:54:52.142116"
+        },
+        {
+            "status_id": 188917991,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 10:57:57.640969"
+        },
+        {
+            "status_id": 188949232,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 12:28:01.350131"
+        },
+        {
+            "status_id": 188992454,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 14:32:05.156135"
+        },
+        {
+            "status_id": 189035550,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 16:35:08.916726"
+        },
+        {
+            "status_id": 189078523,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 18:38:13.350287"
+        },
+        {
+            "status_id": 189121863,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 20:42:17.175520"
+        },
+        {
+            "status_id": 189165009,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 22:45:19.454843"
+        },
+        {
+            "status_id": 189207984,
+            "battery_level": 31,
+            "received_status_at": "2022-04-24 00:48:23.638067"
+        },
+        {
+            "status_id": 189250348,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 02:52:28.147960"
+        },
+        {
+            "status_id": 189262667,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 04:55:30.474897"
+        },
+        {
+            "status_id": 189334108,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 10:57:35.485793"
+        },
+        {
+            "status_id": 189365796,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 12:27:40.924347"
+        },
+        {
+            "status_id": 189409220,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 14:31:42.561306"
+        },
+        {
+            "status_id": 189452552,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 16:34:44.522428"
+        },
+        {
+            "status_id": 189495840,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 18:37:48.783253"
+        },
+        {
+            "status_id": 189539521,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 20:41:55.023620"
+        },
+        {
+            "status_id": 189582918,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 22:44:57.164969"
+        },
+        {
+            "status_id": 189626201,
+            "battery_level": 30,
+            "received_status_at": "2022-04-25 00:48:00.900311"
+        },
+        {
+            "status_id": 189668663,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 02:52:01.955989"
+        },
+        {
+            "status_id": 189681050,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 04:55:06.034245"
+        },
+        {
+            "status_id": 189752690,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 10:58:12.145225"
+        },
+        {
+            "status_id": 189784355,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 12:28:13.682539"
+        },
+        {
+            "status_id": 189827860,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 14:32:18.128808"
+        },
+        {
+            "status_id": 189871169,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 16:35:23.739581"
+        },
+        {
+            "status_id": 189914311,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 18:38:25.130118"
+        },
+        {
+            "status_id": 189957830,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 20:42:29.212509"
+        },
+        {
+            "status_id": 190001202,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 22:45:30.372322"
+        },
+        {
+            "status_id": 190044642,
+            "battery_level": 29,
+            "received_status_at": "2022-04-26 00:47:36.207813"
+        },
+        {
+            "status_id": 190087408,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 02:51:36.777565"
+        },
+        {
+            "status_id": 190100475,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 04:54:40.855100"
+        },
+        {
+            "status_id": 190172616,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 10:57:46.334239"
+        },
+        {
+            "status_id": 190204280,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 12:27:50.067207"
+        },
+        {
+            "status_id": 190247817,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 14:31:55.403540"
+        },
+        {
+            "status_id": 190291235,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 16:34:57.805386"
+        },
+        {
+            "status_id": 190334694,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 18:38:02.144278"
+        },
+        {
+            "status_id": 190378842,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 20:42:04.921806"
+        },
+        {
+            "status_id": 190423079,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 22:45:09.462663"
+        },
+        {
+            "status_id": 190467062,
+            "battery_level": 28,
+            "received_status_at": "2022-04-27 00:48:10.613935"
+        },
+        {
+            "status_id": 190510036,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 02:52:15.073045"
+        },
+        {
+            "status_id": 190522834,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 04:55:18.902555"
+        },
+        {
+            "status_id": 190594731,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 10:58:24.510577"
+        },
+        {
+            "status_id": 190626439,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 12:28:28.166681"
+        },
+        {
+            "status_id": 190670090,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 14:32:32.419716"
+        },
+        {
+            "status_id": 190713364,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 16:34:34.670926"
+        },
+        {
+            "status_id": 190757184,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 18:37:38.746599"
+        },
+        {
+            "status_id": 190801657,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 20:41:42.088431"
+        },
+        {
+            "status_id": 190845738,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 22:44:50.742785"
+        },
+        {
+            "status_id": 190889920,
+            "battery_level": 27,
+            "received_status_at": "2022-04-28 00:47:47.664920"
+        },
+        {
+            "status_id": 190933301,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 02:51:52.023029"
+        },
+        {
+            "status_id": 190946524,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 04:54:55.700073"
+        },
+        {
+            "status_id": 191018154,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 10:58:00.866331"
+        },
+        {
+            "status_id": 191049741,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 12:28:04.537921"
+        },
+        {
+            "status_id": 191093251,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 14:32:09.260574"
+        },
+        {
+            "status_id": 191136810,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 16:35:13.213042"
+        },
+        {
+            "status_id": 191180347,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 18:38:25.615781"
+        },
+        {
+            "status_id": 191224031,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 20:42:19.481157"
+        },
+        {
+            "status_id": 191267332,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 22:45:20.652382"
+        },
+        {
+            "status_id": 191310660,
+            "battery_level": 26,
+            "received_status_at": "2022-04-29 00:48:24.944479"
+        },
+        {
+            "status_id": 191353594,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 02:52:29.719646"
+        },
+        {
+            "status_id": 191366721,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 04:55:31.906669"
+        },
+        {
+            "status_id": 191438154,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 10:57:36.305217"
+        },
+        {
+            "status_id": 191469715,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 12:27:40.050219"
+        },
+        {
+            "status_id": 191513071,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 14:31:42.991375"
+        },
+        {
+            "status_id": 191556544,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 16:34:47.837629"
+        }
+    ],
+    "308398EF102C": [
+        {
+            "status_id": 190021703,
+            "battery_level": 88,
+            "received_status_at": "2022-04-25 23:41:45.693368"
+        },
+        {
+            "status_id": 190044273,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 00:46:49.308332"
+        },
+        {
+            "status_id": 190067267,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 01:50:54.203687"
+        },
+        {
+            "status_id": 190083605,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 02:39:49.486158"
+        },
+        {
+            "status_id": 190094336,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 03:39:52.322753"
+        },
+        {
+            "status_id": 190099208,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 04:39:54.327195"
+        },
+        {
+            "status_id": 190101994,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 05:39:57.026192"
+        },
+        {
+            "status_id": 190368054,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:10:24.296738"
+        },
+        {
+            "status_id": 190372222,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:22:26.258471"
+        },
+        {
+            "status_id": 190390395,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 21:12:27.050415"
+        },
+        {
+            "status_id": 190408334,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:01:29.526898"
+        },
+        {
+            "status_id": 190425473,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:51:31.528067"
+        },
+        {
+            "status_id": 190443392,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 23:39:37.604459"
+        },
+        {
+            "status_id": 190460668,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 00:29:36.236874"
+        },
+        {
+            "status_id": 190478741,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 01:18:38.487928"
+        },
+        {
+            "status_id": 190521437,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 04:36:51.264074"
+        }
+    ],
+    "308398FA1104": [
+        {
+            "status_id": 187488475,
+            "battery_level": 88,
+            "received_status_at": "2022-04-19 22:34:28.669543"
+        },
+        {
+            "status_id": 187490902,
+            "battery_level": 87,
+            "received_status_at": "2022-04-19 22:41:46.830707"
+        },
+        {
+            "status_id": 187519217,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 00:00:30.886264"
+        },
+        {
+            "status_id": 187562218,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 02:03:33.808053"
+        },
+        {
+            "status_id": 187603887,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 08:02:37.392874"
+        },
+        {
+            "status_id": 187631099,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 09:36:40.993148"
+        },
+        {
+            "status_id": 187676690,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 11:39:42.190801"
+        },
+        {
+            "status_id": 187719920,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 13:43:45.606302"
+        },
+        {
+            "status_id": 187763282,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 15:46:49.848259"
+        },
+        {
+            "status_id": 187806488,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 17:49:52.319212"
+        },
+        {
+            "status_id": 187850297,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 19:53:55.733379"
+        },
+        {
+            "status_id": 187893874,
+            "battery_level": 86,
+            "received_status_at": "2022-04-20 21:56:58.143690"
+        },
+        {
+            "status_id": 187937469,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 00:00:01.369844"
+        },
+        {
+            "status_id": 187981199,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 02:04:04.757307"
+        },
+        {
+            "status_id": 188013102,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 07:33:09.608334"
+        },
+        {
+            "status_id": 188034716,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 08:36:09.734772"
+        },
+        {
+            "status_id": 188074015,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 10:39:12.138429"
+        },
+        {
+            "status_id": 188118861,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 12:43:15.925899"
+        },
+        {
+            "status_id": 188162489,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 14:46:19.303821"
+        },
+        {
+            "status_id": 188205640,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 16:49:22.648184"
+        },
+        {
+            "status_id": 188249677,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 18:53:26.226144"
+        },
+        {
+            "status_id": 188292033,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 20:56:28.445707"
+        },
+        {
+            "status_id": 188334442,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 22:59:31.059446"
+        },
+        {
+            "status_id": 188378077,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 01:02:34.318221"
+        },
+        {
+            "status_id": 188431369,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 07:32:37.715608"
+        },
+        {
+            "status_id": 188452973,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 08:35:41.290533"
+        },
+        {
+            "status_id": 188492536,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 10:38:44.663345"
+        },
+        {
+            "status_id": 188537175,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 12:42:47.482874"
+        },
+        {
+            "status_id": 188580727,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 14:45:52.027147"
+        },
+        {
+            "status_id": 188624141,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 16:48:54.984255"
+        },
+        {
+            "status_id": 188667935,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 18:52:58.165566"
+        },
+        {
+            "status_id": 188711464,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 20:56:01.630240"
+        },
+        {
+            "status_id": 188754736,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 22:59:05.276190"
+        },
+        {
+            "status_id": 188798828,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 01:03:06.100243"
+        },
+        {
+            "status_id": 188851256,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 07:33:10.688339"
+        },
+        {
+            "status_id": 188872388,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 08:36:11.363118"
+        },
+        {
+            "status_id": 188911198,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 10:39:14.189190"
+        },
+        {
+            "status_id": 188955359,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 12:43:17.561277"
+        },
+        {
+            "status_id": 188998537,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 14:46:19.956274"
+        },
+        {
+            "status_id": 189041208,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 16:49:23.306144"
+        },
+        {
+            "status_id": 189084747,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 18:53:27.762029"
+        },
+        {
+            "status_id": 189127866,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 20:56:29.882234"
+        },
+        {
+            "status_id": 189170545,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 22:59:31.856966"
+        },
+        {
+            "status_id": 189213760,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 01:02:34.726260"
+        },
+        {
+            "status_id": 189266193,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 07:32:39.236409"
+        },
+        {
+            "status_id": 189287777,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 08:35:42.915668"
+        },
+        {
+            "status_id": 189327210,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 10:38:45.361196"
+        },
+        {
+            "status_id": 189371783,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 12:42:48.720297"
+        },
+        {
+            "status_id": 189415176,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 14:45:52.584983"
+        },
+        {
+            "status_id": 189458379,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 16:48:54.350223"
+        },
+        {
+            "status_id": 189501894,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 18:52:57.852802"
+        },
+        {
+            "status_id": 189545277,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 20:55:59.150715"
+        },
+        {
+            "status_id": 189588488,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 22:59:02.923695"
+        },
+        {
+            "status_id": 189632527,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 01:03:06.515208"
+        },
+        {
+            "status_id": 189684935,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 07:33:08.901243"
+        },
+        {
+            "status_id": 189706489,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 08:36:11.979384"
+        },
+        {
+            "status_id": 189745715,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 10:39:14.338197"
+        },
+        {
+            "status_id": 189790477,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 12:43:18.202594"
+        },
+        {
+            "status_id": 189833840,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 14:46:20.219682"
+        },
+        {
+            "status_id": 189876718,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 16:49:22.861253"
+        },
+        {
+            "status_id": 189920437,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 18:53:25.806094"
+        },
+        {
+            "status_id": 189963764,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 20:56:29.178072"
+        },
+        {
+            "status_id": 190006720,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 22:59:32.971265"
+        },
+        {
+            "status_id": 190050592,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 01:02:35.313603"
+        },
+        {
+            "status_id": 190104590,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 07:32:40.078393"
+        },
+        {
+            "status_id": 190126202,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 08:35:45.527451"
+        },
+        {
+            "status_id": 190165655,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 10:38:45.903299"
+        },
+        {
+            "status_id": 190210259,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 12:42:48.731984"
+        },
+        {
+            "status_id": 190253667,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 14:45:52.660591"
+        },
+        {
+            "status_id": 190296965,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 16:48:55.937561"
+        },
+        {
+            "status_id": 190340673,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 18:52:58.118257"
+        },
+        {
+            "status_id": 190384665,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 20:56:00.131009"
+        },
+        {
+            "status_id": 190428685,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 22:59:04.041608"
+        },
+        {
+            "status_id": 190473445,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 01:03:06.431503"
+        },
+        {
+            "status_id": 190526830,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 07:33:09.404786"
+        },
+        {
+            "status_id": 190548427,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 08:36:11.140458"
+        },
+        {
+            "status_id": 190587680,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 10:39:14.316310"
+        },
+        {
+            "status_id": 190632440,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 12:43:15.875044"
+        },
+        {
+            "status_id": 190675962,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 14:46:18.589950"
+        },
+        {
+            "status_id": 190719447,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 16:49:21.017044"
+        },
+        {
+            "status_id": 190763724,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 18:53:23.517012"
+        },
+        {
+            "status_id": 190807922,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 20:56:26.339518"
+        },
+        {
+            "status_id": 190851589,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 22:59:28.565305"
+        },
+        {
+            "status_id": 190896796,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 01:03:31.432841"
+        },
+        {
+            "status_id": 190950523,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 07:32:34.968894"
+        },
+        {
+            "status_id": 190971809,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 08:35:38.653212"
+        },
+        {
+            "status_id": 191011104,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 10:38:41.486037"
+        },
+        {
+            "status_id": 191055560,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 12:42:45.737737"
+        },
+        {
+            "status_id": 191098890,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 14:45:47.709744"
+        },
+        {
+            "status_id": 191142359,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 16:48:51.082390"
+        },
+        {
+            "status_id": 191186136,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 18:52:54.234325"
+        },
+        {
+            "status_id": 191229637,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 20:55:57.220149"
+        },
+        {
+            "status_id": 191272750,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 22:59:01.094494"
+        },
+        {
+            "status_id": 191316918,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 01:03:03.465844"
+        },
+        {
+            "status_id": 191371002,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 07:33:07.335177"
+        },
+        {
+            "status_id": 191392322,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 08:36:10.182249"
+        },
+        {
+            "status_id": 191431460,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 10:39:14.026703"
+        },
+        {
+            "status_id": 191476024,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 12:43:17.036487"
+        },
+        {
+            "status_id": 191519397,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 14:46:19.733334"
+        },
+        {
+            "status_id": 191562444,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 16:49:23.120931"
+        }
+    ],
+    "308348FA3104": [
+        {
+            "status_id": 187488475,
+            "battery_level": 88,
+            "received_status_at": "2022-04-19 22:34:28.669543"
+        },
+        {
+            "status_id": 187490902,
+            "battery_level": 87,
+            "received_status_at": "2022-04-19 22:41:46.830707"
+        },
+        {
+            "status_id": 187519217,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 00:00:30.886264"
+        },
+        {
+            "status_id": 187562218,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 02:03:33.808053"
+        },
+        {
+            "status_id": 187603887,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 08:02:37.392874"
+        },
+        {
+            "status_id": 187631099,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 09:36:40.993148"
+        },
+        {
+            "status_id": 187676690,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 11:39:42.190801"
+        },
+        {
+            "status_id": 187719920,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 13:43:45.606302"
+        },
+        {
+            "status_id": 187763282,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 15:46:49.848259"
+        },
+        {
+            "status_id": 187806488,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 17:49:52.319212"
+        },
+        {
+            "status_id": 187850297,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 19:53:55.733379"
+        },
+        {
+            "status_id": 187893874,
+            "battery_level": 86,
+            "received_status_at": "2022-04-20 21:56:58.143690"
+        },
+        {
+            "status_id": 187937469,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 00:00:01.369844"
+        },
+        {
+            "status_id": 187981199,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 02:04:04.757307"
+        },
+        {
+            "status_id": 188013102,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 07:33:09.608334"
+        },
+        {
+            "status_id": 188034716,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 08:36:09.734772"
+        },
+        {
+            "status_id": 188074015,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 10:39:12.138429"
+        },
+        {
+            "status_id": 188118861,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 12:43:15.925899"
+        },
+        {
+            "status_id": 188162489,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 14:46:19.303821"
+        },
+        {
+            "status_id": 188205640,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 16:49:22.648184"
+        },
+        {
+            "status_id": 188249677,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 18:53:26.226144"
+        },
+        {
+            "status_id": 188292033,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 20:56:28.445707"
+        },
+        {
+            "status_id": 188334442,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 22:59:31.059446"
+        },
+        {
+            "status_id": 188378077,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 01:02:34.318221"
+        },
+        {
+            "status_id": 188431369,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 07:32:37.715608"
+        },
+        {
+            "status_id": 188452973,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 08:35:41.290533"
+        },
+        {
+            "status_id": 188492536,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 10:38:44.663345"
+        },
+        {
+            "status_id": 188537175,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 12:42:47.482874"
+        },
+        {
+            "status_id": 188580727,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 14:45:52.027147"
+        },
+        {
+            "status_id": 188624141,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 16:48:54.984255"
+        },
+        {
+            "status_id": 188667935,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 18:52:58.165566"
+        },
+        {
+            "status_id": 188711464,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 20:56:01.630240"
+        },
+        {
+            "status_id": 188754736,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 22:59:05.276190"
+        },
+        {
+            "status_id": 188798828,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 01:03:06.100243"
+        },
+        {
+            "status_id": 188851256,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 07:33:10.688339"
+        },
+        {
+            "status_id": 188872388,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 08:36:11.363118"
+        },
+        {
+            "status_id": 188911198,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 10:39:14.189190"
+        },
+        {
+            "status_id": 188955359,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 12:43:17.561277"
+        },
+        {
+            "status_id": 188998537,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 14:46:19.956274"
+        },
+        {
+            "status_id": 189041208,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 16:49:23.306144"
+        },
+        {
+            "status_id": 189084747,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 18:53:27.762029"
+        },
+        {
+            "status_id": 189127866,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 20:56:29.882234"
+        },
+        {
+            "status_id": 189170545,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 22:59:31.856966"
+        },
+        {
+            "status_id": 189213760,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 01:02:34.726260"
+        },
+        {
+            "status_id": 189266193,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 07:32:39.236409"
+        },
+        {
+            "status_id": 189287777,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 08:35:42.915668"
+        },
+        {
+            "status_id": 189327210,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 10:38:45.361196"
+        },
+        {
+            "status_id": 189371783,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 12:42:48.720297"
+        },
+        {
+            "status_id": 189415176,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 14:45:52.584983"
+        },
+        {
+            "status_id": 189458379,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 16:48:54.350223"
+        },
+        {
+            "status_id": 189501894,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 18:52:57.852802"
+        },
+        {
+            "status_id": 189545277,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 20:55:59.150715"
+        },
+        {
+            "status_id": 189588488,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 22:59:02.923695"
+        },
+        {
+            "status_id": 189632527,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 01:03:06.515208"
+        },
+        {
+            "status_id": 189684935,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 07:33:08.901243"
+        },
+        {
+            "status_id": 189706489,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 08:36:11.979384"
+        },
+        {
+            "status_id": 189745715,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 10:39:14.338197"
+        },
+        {
+            "status_id": 189790477,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 12:43:18.202594"
+        },
+        {
+            "status_id": 189833840,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 14:46:20.219682"
+        },
+        {
+            "status_id": 189876718,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 16:49:22.861253"
+        },
+        {
+            "status_id": 189920437,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 18:53:25.806094"
+        },
+        {
+            "status_id": 189963764,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 20:56:29.178072"
+        },
+        {
+            "status_id": 190006720,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 22:59:32.971265"
+        },
+        {
+            "status_id": 190050592,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 01:02:35.313603"
+        },
+        {
+            "status_id": 190104590,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 07:32:40.078393"
+        },
+        {
+            "status_id": 190126202,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 08:35:45.527451"
+        },
+        {
+            "status_id": 190165655,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 10:38:45.903299"
+        },
+        {
+            "status_id": 190210259,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 12:42:48.731984"
+        },
+        {
+            "status_id": 190253667,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 14:45:52.660591"
+        },
+        {
+            "status_id": 190296965,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 16:48:55.937561"
+        },
+        {
+            "status_id": 190340673,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 18:52:58.118257"
+        },
+        {
+            "status_id": 190384665,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 20:56:00.131009"
+        },
+        {
+            "status_id": 190428685,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 22:59:04.041608"
+        },
+        {
+            "status_id": 190473445,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 01:03:06.431503"
+        },
+        {
+            "status_id": 190526830,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 07:33:09.404786"
+        },
+        {
+            "status_id": 190548427,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 08:36:11.140458"
+        },
+        {
+            "status_id": 190587680,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 10:39:14.316310"
+        },
+        {
+            "status_id": 190632440,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 12:43:15.875044"
+        },
+        {
+            "status_id": 190675962,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 14:46:18.589950"
+        },
+        {
+            "status_id": 190719447,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 16:49:21.017044"
+        },
+        {
+            "status_id": 190763724,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 18:53:23.517012"
+        },
+        {
+            "status_id": 190807922,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 20:56:26.339518"
+        },
+        {
+            "status_id": 190851589,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 22:59:28.565305"
+        },
+        {
+            "status_id": 190896796,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 01:03:31.432841"
+        },
+        {
+            "status_id": 190950523,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 07:32:34.968894"
+        },
+        {
+            "status_id": 190971809,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 08:35:38.653212"
+        },
+        {
+            "status_id": 191011104,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 10:38:41.486037"
+        },
+        {
+            "status_id": 191055560,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 12:42:45.737737"
+        },
+        {
+            "status_id": 191098890,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 14:45:47.709744"
+        },
+        {
+            "status_id": 191142359,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 16:48:51.082390"
+        },
+        {
+            "status_id": 191186136,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 18:52:54.234325"
+        },
+        {
+            "status_id": 191229637,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 20:55:57.220149"
+        },
+        {
+            "status_id": 191272750,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 22:59:01.094494"
+        },
+        {
+            "status_id": 191316918,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 01:03:03.465844"
+        },
+        {
+            "status_id": 191371002,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 07:33:07.335177"
+        },
+        {
+            "status_id": 191392322,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 08:36:10.182249"
+        },
+        {
+            "status_id": 191431460,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 10:39:14.026703"
+        },
+        {
+            "status_id": 191476024,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 12:43:17.036487"
+        },
+        {
+            "status_id": 191519397,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 14:46:19.733334"
+        },
+        {
+            "status_id": 191562444,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 16:49:23.120931"
+        }
+    ],
+    "308348C03ED4": [
+        {
+            "status_id": 187561474,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:01:52.358753"
+        },
+        {
+            "status_id": 187562246,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:03:40.338479"
+        },
+        {
+            "status_id": 187564985,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:12:33.070172"
+        },
+        {
+            "status_id": 187585531,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 03:56:01.061063"
+        },
+        {
+            "status_id": 187585695,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 03:57:05.610580"
+        },
+        {
+            "status_id": 187591679,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 06:00:07.360657"
+        },
+        {
+            "status_id": 187673268,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 11:30:11.151040"
+        },
+        {
+            "status_id": 187716344,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 13:33:15.028206"
+        },
+        {
+            "status_id": 187759793,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 15:37:19.476646"
+        },
+        {
+            "status_id": 187803117,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 17:40:26.180046"
+        },
+        {
+            "status_id": 187846724,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 19:43:26.717615"
+        },
+        {
+            "status_id": 187890589,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 21:47:28.498380"
+        },
+        {
+            "status_id": 187933865,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 23:50:31.248442"
+        },
+        {
+            "status_id": 187976913,
+            "battery_level": 34,
+            "received_status_at": "2022-04-21 01:52:34.229209"
+        },
+        {
+            "status_id": 188004572,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 03:56:38.294122"
+        },
+        {
+            "status_id": 188010772,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 05:59:40.121291"
+        },
+        {
+            "status_id": 188080841,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 10:57:45.945365"
+        },
+        {
+            "status_id": 188112581,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 12:27:49.923155"
+        },
+        {
+            "status_id": 188156245,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 14:31:52.878800"
+        },
+        {
+            "status_id": 188199789,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 16:34:56.131171"
+        },
+        {
+            "status_id": 188243284,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 18:37:57.943703"
+        },
+        {
+            "status_id": 188286159,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 20:42:02.092321"
+        },
+        {
+            "status_id": 188328765,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 22:45:04.715589"
+        },
+        {
+            "status_id": 188372237,
+            "battery_level": 33,
+            "received_status_at": "2022-04-22 00:48:10.253047"
+        },
+        {
+            "status_id": 188415037,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 02:52:12.461428"
+        },
+        {
+            "status_id": 188427678,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 04:55:16.390753"
+        },
+        {
+            "status_id": 188499719,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 10:58:22.209419"
+        },
+        {
+            "status_id": 188531424,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 12:28:24.356019"
+        },
+        {
+            "status_id": 188575203,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 14:32:28.810616"
+        },
+        {
+            "status_id": 188618692,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 16:35:32.104539"
+        },
+        {
+            "status_id": 188661739,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 18:37:35.378151"
+        },
+        {
+            "status_id": 188705535,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 20:41:37.791976"
+        },
+        {
+            "status_id": 188749028,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 22:44:41.795155"
+        },
+        {
+            "status_id": 188792455,
+            "battery_level": 32,
+            "received_status_at": "2022-04-23 00:47:44.454197"
+        },
+        {
+            "status_id": 188834923,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 02:51:48.273847"
+        },
+        {
+            "status_id": 188847363,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 04:54:52.142116"
+        },
+        {
+            "status_id": 188917991,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 10:57:57.640969"
+        },
+        {
+            "status_id": 188949232,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 12:28:01.350131"
+        },
+        {
+            "status_id": 188992454,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 14:32:05.156135"
+        },
+        {
+            "status_id": 189035550,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 16:35:08.916726"
+        },
+        {
+            "status_id": 189078523,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 18:38:13.350287"
+        },
+        {
+            "status_id": 189121863,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 20:42:17.175520"
+        },
+        {
+            "status_id": 189165009,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 22:45:19.454843"
+        },
+        {
+            "status_id": 189207984,
+            "battery_level": 31,
+            "received_status_at": "2022-04-24 00:48:23.638067"
+        },
+        {
+            "status_id": 189250348,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 02:52:28.147960"
+        },
+        {
+            "status_id": 189262667,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 04:55:30.474897"
+        },
+        {
+            "status_id": 189334108,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 10:57:35.485793"
+        },
+        {
+            "status_id": 189365796,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 12:27:40.924347"
+        },
+        {
+            "status_id": 189409220,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 14:31:42.561306"
+        },
+        {
+            "status_id": 189452552,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 16:34:44.522428"
+        },
+        {
+            "status_id": 189495840,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 18:37:48.783253"
+        },
+        {
+            "status_id": 189539521,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 20:41:55.023620"
+        },
+        {
+            "status_id": 189582918,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 22:44:57.164969"
+        },
+        {
+            "status_id": 189626201,
+            "battery_level": 30,
+            "received_status_at": "2022-04-25 00:48:00.900311"
+        },
+        {
+            "status_id": 189668663,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 02:52:01.955989"
+        },
+        {
+            "status_id": 189681050,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 04:55:06.034245"
+        },
+        {
+            "status_id": 189752690,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 10:58:12.145225"
+        },
+        {
+            "status_id": 189784355,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 12:28:13.682539"
+        },
+        {
+            "status_id": 189827860,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 14:32:18.128808"
+        },
+        {
+            "status_id": 189871169,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 16:35:23.739581"
+        },
+        {
+            "status_id": 189914311,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 18:38:25.130118"
+        },
+        {
+            "status_id": 189957830,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 20:42:29.212509"
+        },
+        {
+            "status_id": 190001202,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 22:45:30.372322"
+        },
+        {
+            "status_id": 190044642,
+            "battery_level": 29,
+            "received_status_at": "2022-04-26 00:47:36.207813"
+        },
+        {
+            "status_id": 190087408,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 02:51:36.777565"
+        },
+        {
+            "status_id": 190100475,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 04:54:40.855100"
+        },
+        {
+            "status_id": 190172616,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 10:57:46.334239"
+        },
+        {
+            "status_id": 190204280,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 12:27:50.067207"
+        },
+        {
+            "status_id": 190247817,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 14:31:55.403540"
+        },
+        {
+            "status_id": 190291235,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 16:34:57.805386"
+        },
+        {
+            "status_id": 190334694,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 18:38:02.144278"
+        },
+        {
+            "status_id": 190378842,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 20:42:04.921806"
+        },
+        {
+            "status_id": 190423079,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 22:45:09.462663"
+        },
+        {
+            "status_id": 190467062,
+            "battery_level": 28,
+            "received_status_at": "2022-04-27 00:48:10.613935"
+        },
+        {
+            "status_id": 190510036,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 02:52:15.073045"
+        },
+        {
+            "status_id": 190522834,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 04:55:18.902555"
+        },
+        {
+            "status_id": 190594731,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 10:58:24.510577"
+        },
+        {
+            "status_id": 190626439,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 12:28:28.166681"
+        },
+        {
+            "status_id": 190670090,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 14:32:32.419716"
+        },
+        {
+            "status_id": 190713364,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 16:34:34.670926"
+        },
+        {
+            "status_id": 190757184,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 18:37:38.746599"
+        },
+        {
+            "status_id": 190801657,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 20:41:42.088431"
+        },
+        {
+            "status_id": 190845738,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 22:44:50.742785"
+        },
+        {
+            "status_id": 190889920,
+            "battery_level": 27,
+            "received_status_at": "2022-04-28 00:47:47.664920"
+        },
+        {
+            "status_id": 190933301,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 02:51:52.023029"
+        },
+        {
+            "status_id": 190946524,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 04:54:55.700073"
+        },
+        {
+            "status_id": 191018154,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 10:58:00.866331"
+        },
+        {
+            "status_id": 191049741,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 12:28:04.537921"
+        },
+        {
+            "status_id": 191093251,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 14:32:09.260574"
+        },
+        {
+            "status_id": 191136810,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 16:35:13.213042"
+        },
+        {
+            "status_id": 191180347,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 18:38:25.615781"
+        },
+        {
+            "status_id": 191224031,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 20:42:19.481157"
+        },
+        {
+            "status_id": 191267332,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 22:45:20.652382"
+        },
+        {
+            "status_id": 191310660,
+            "battery_level": 26,
+            "received_status_at": "2022-04-29 00:48:24.944479"
+        },
+        {
+            "status_id": 191353594,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 02:52:29.719646"
+        },
+        {
+            "status_id": 191366721,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 04:55:31.906669"
+        },
+        {
+            "status_id": 191438154,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 10:57:36.305217"
+        },
+        {
+            "status_id": 191469715,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 12:27:40.050219"
+        },
+        {
+            "status_id": 191513071,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 14:31:42.991375"
+        },
+        {
+            "status_id": 191556544,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 16:34:47.837629"
+        }
+    ],
+    "308348EF102C": [
+        {
+            "status_id": 190021703,
+            "battery_level": 88,
+            "received_status_at": "2022-04-25 23:41:45.693368"
+        },
+        {
+            "status_id": 190044273,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 00:46:49.308332"
+        },
+        {
+            "status_id": 190067267,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 01:50:54.203687"
+        },
+        {
+            "status_id": 190083605,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 02:39:49.486158"
+        },
+        {
+            "status_id": 190094336,
+            "battery_level": 88,
+            "received_status_at": "2022-04-26 03:39:52.322753"
+        },
+        {
+            "status_id": 190099208,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 04:39:54.327195"
+        },
+        {
+            "status_id": 190101994,
+            "battery_level": 87,
+            "received_status_at": "2022-04-26 05:39:57.026192"
+        },
+        {
+            "status_id": 190368054,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:10:24.296738"
+        },
+        {
+            "status_id": 190372222,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 20:22:26.258471"
+        },
+        {
+            "status_id": 190390395,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 21:12:27.050415"
+        },
+        {
+            "status_id": 190408334,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:01:29.526898"
+        },
+        {
+            "status_id": 190425473,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 22:51:31.528067"
+        },
+        {
+            "status_id": 190443392,
+            "battery_level": 86,
+            "received_status_at": "2022-04-26 23:39:37.604459"
+        },
+        {
+            "status_id": 190460668,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 00:29:36.236874"
+        },
+        {
+            "status_id": 190478741,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 01:18:38.487928"
+        },
+        {
+            "status_id": 190521437,
+            "battery_level": 85,
+            "received_status_at": "2022-04-27 04:36:51.264074"
+        }
+    ],
+    "308348FA1104": [
+        {
+            "status_id": 187488475,
+            "battery_level": 88,
+            "received_status_at": "2022-04-19 22:34:28.669543"
+        },
+        {
+            "status_id": 187490902,
+            "battery_level": 87,
+            "received_status_at": "2022-04-19 22:41:46.830707"
+        },
+        {
+            "status_id": 187519217,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 00:00:30.886264"
+        },
+        {
+            "status_id": 187562218,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 02:03:33.808053"
+        },
+        {
+            "status_id": 187603887,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 08:02:37.392874"
+        },
+        {
+            "status_id": 187631099,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 09:36:40.993148"
+        },
+        {
+            "status_id": 187676690,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 11:39:42.190801"
+        },
+        {
+            "status_id": 187719920,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 13:43:45.606302"
+        },
+        {
+            "status_id": 187763282,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 15:46:49.848259"
+        },
+        {
+            "status_id": 187806488,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 17:49:52.319212"
+        },
+        {
+            "status_id": 187850297,
+            "battery_level": 87,
+            "received_status_at": "2022-04-20 19:53:55.733379"
+        },
+        {
+            "status_id": 187893874,
+            "battery_level": 86,
+            "received_status_at": "2022-04-20 21:56:58.143690"
+        },
+        {
+            "status_id": 187937469,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 00:00:01.369844"
+        },
+        {
+            "status_id": 187981199,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 02:04:04.757307"
+        },
+        {
+            "status_id": 188013102,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 07:33:09.608334"
+        },
+        {
+            "status_id": 188034716,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 08:36:09.734772"
+        },
+        {
+            "status_id": 188074015,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 10:39:12.138429"
+        },
+        {
+            "status_id": 188118861,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 12:43:15.925899"
+        },
+        {
+            "status_id": 188162489,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 14:46:19.303821"
+        },
+        {
+            "status_id": 188205640,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 16:49:22.648184"
+        },
+        {
+            "status_id": 188249677,
+            "battery_level": 86,
+            "received_status_at": "2022-04-21 18:53:26.226144"
+        },
+        {
+            "status_id": 188292033,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 20:56:28.445707"
+        },
+        {
+            "status_id": 188334442,
+            "battery_level": 85,
+            "received_status_at": "2022-04-21 22:59:31.059446"
+        },
+        {
+            "status_id": 188378077,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 01:02:34.318221"
+        },
+        {
+            "status_id": 188431369,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 07:32:37.715608"
+        },
+        {
+            "status_id": 188452973,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 08:35:41.290533"
+        },
+        {
+            "status_id": 188492536,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 10:38:44.663345"
+        },
+        {
+            "status_id": 188537175,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 12:42:47.482874"
+        },
+        {
+            "status_id": 188580727,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 14:45:52.027147"
+        },
+        {
+            "status_id": 188624141,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 16:48:54.984255"
+        },
+        {
+            "status_id": 188667935,
+            "battery_level": 85,
+            "received_status_at": "2022-04-22 18:52:58.165566"
+        },
+        {
+            "status_id": 188711464,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 20:56:01.630240"
+        },
+        {
+            "status_id": 188754736,
+            "battery_level": 84,
+            "received_status_at": "2022-04-22 22:59:05.276190"
+        },
+        {
+            "status_id": 188798828,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 01:03:06.100243"
+        },
+        {
+            "status_id": 188851256,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 07:33:10.688339"
+        },
+        {
+            "status_id": 188872388,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 08:36:11.363118"
+        },
+        {
+            "status_id": 188911198,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 10:39:14.189190"
+        },
+        {
+            "status_id": 188955359,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 12:43:17.561277"
+        },
+        {
+            "status_id": 188998537,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 14:46:19.956274"
+        },
+        {
+            "status_id": 189041208,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 16:49:23.306144"
+        },
+        {
+            "status_id": 189084747,
+            "battery_level": 84,
+            "received_status_at": "2022-04-23 18:53:27.762029"
+        },
+        {
+            "status_id": 189127866,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 20:56:29.882234"
+        },
+        {
+            "status_id": 189170545,
+            "battery_level": 83,
+            "received_status_at": "2022-04-23 22:59:31.856966"
+        },
+        {
+            "status_id": 189213760,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 01:02:34.726260"
+        },
+        {
+            "status_id": 189266193,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 07:32:39.236409"
+        },
+        {
+            "status_id": 189287777,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 08:35:42.915668"
+        },
+        {
+            "status_id": 189327210,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 10:38:45.361196"
+        },
+        {
+            "status_id": 189371783,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 12:42:48.720297"
+        },
+        {
+            "status_id": 189415176,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 14:45:52.584983"
+        },
+        {
+            "status_id": 189458379,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 16:48:54.350223"
+        },
+        {
+            "status_id": 189501894,
+            "battery_level": 83,
+            "received_status_at": "2022-04-24 18:52:57.852802"
+        },
+        {
+            "status_id": 189545277,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 20:55:59.150715"
+        },
+        {
+            "status_id": 189588488,
+            "battery_level": 82,
+            "received_status_at": "2022-04-24 22:59:02.923695"
+        },
+        {
+            "status_id": 189632527,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 01:03:06.515208"
+        },
+        {
+            "status_id": 189684935,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 07:33:08.901243"
+        },
+        {
+            "status_id": 189706489,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 08:36:11.979384"
+        },
+        {
+            "status_id": 189745715,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 10:39:14.338197"
+        },
+        {
+            "status_id": 189790477,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 12:43:18.202594"
+        },
+        {
+            "status_id": 189833840,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 14:46:20.219682"
+        },
+        {
+            "status_id": 189876718,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 16:49:22.861253"
+        },
+        {
+            "status_id": 189920437,
+            "battery_level": 82,
+            "received_status_at": "2022-04-25 18:53:25.806094"
+        },
+        {
+            "status_id": 189963764,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 20:56:29.178072"
+        },
+        {
+            "status_id": 190006720,
+            "battery_level": 81,
+            "received_status_at": "2022-04-25 22:59:32.971265"
+        },
+        {
+            "status_id": 190050592,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 01:02:35.313603"
+        },
+        {
+            "status_id": 190104590,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 07:32:40.078393"
+        },
+        {
+            "status_id": 190126202,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 08:35:45.527451"
+        },
+        {
+            "status_id": 190165655,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 10:38:45.903299"
+        },
+        {
+            "status_id": 190210259,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 12:42:48.731984"
+        },
+        {
+            "status_id": 190253667,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 14:45:52.660591"
+        },
+        {
+            "status_id": 190296965,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 16:48:55.937561"
+        },
+        {
+            "status_id": 190340673,
+            "battery_level": 81,
+            "received_status_at": "2022-04-26 18:52:58.118257"
+        },
+        {
+            "status_id": 190384665,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 20:56:00.131009"
+        },
+        {
+            "status_id": 190428685,
+            "battery_level": 80,
+            "received_status_at": "2022-04-26 22:59:04.041608"
+        },
+        {
+            "status_id": 190473445,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 01:03:06.431503"
+        },
+        {
+            "status_id": 190526830,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 07:33:09.404786"
+        },
+        {
+            "status_id": 190548427,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 08:36:11.140458"
+        },
+        {
+            "status_id": 190587680,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 10:39:14.316310"
+        },
+        {
+            "status_id": 190632440,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 12:43:15.875044"
+        },
+        {
+            "status_id": 190675962,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 14:46:18.589950"
+        },
+        {
+            "status_id": 190719447,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 16:49:21.017044"
+        },
+        {
+            "status_id": 190763724,
+            "battery_level": 80,
+            "received_status_at": "2022-04-27 18:53:23.517012"
+        },
+        {
+            "status_id": 190807922,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 20:56:26.339518"
+        },
+        {
+            "status_id": 190851589,
+            "battery_level": 79,
+            "received_status_at": "2022-04-27 22:59:28.565305"
+        },
+        {
+            "status_id": 190896796,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 01:03:31.432841"
+        },
+        {
+            "status_id": 190950523,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 07:32:34.968894"
+        },
+        {
+            "status_id": 190971809,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 08:35:38.653212"
+        },
+        {
+            "status_id": 191011104,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 10:38:41.486037"
+        },
+        {
+            "status_id": 191055560,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 12:42:45.737737"
+        },
+        {
+            "status_id": 191098890,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 14:45:47.709744"
+        },
+        {
+            "status_id": 191142359,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 16:48:51.082390"
+        },
+        {
+            "status_id": 191186136,
+            "battery_level": 79,
+            "received_status_at": "2022-04-28 18:52:54.234325"
+        },
+        {
+            "status_id": 191229637,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 20:55:57.220149"
+        },
+        {
+            "status_id": 191272750,
+            "battery_level": 78,
+            "received_status_at": "2022-04-28 22:59:01.094494"
+        },
+        {
+            "status_id": 191316918,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 01:03:03.465844"
+        },
+        {
+            "status_id": 191371002,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 07:33:07.335177"
+        },
+        {
+            "status_id": 191392322,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 08:36:10.182249"
+        },
+        {
+            "status_id": 191431460,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 10:39:14.026703"
+        },
+        {
+            "status_id": 191476024,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 12:43:17.036487"
+        },
+        {
+            "status_id": 191519397,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 14:46:19.733334"
+        },
+        {
+            "status_id": 191562444,
+            "battery_level": 78,
+            "received_status_at": "2022-04-29 16:49:23.120931"
+        }
+    ],
+    "308398C01ED4": [
+        {
+            "status_id": 187561474,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:01:52.358753"
+        },
+        {
+            "status_id": 187562246,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:03:40.338479"
+        },
+        {
+            "status_id": 187564985,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 02:12:33.070172"
+        },
+        {
+            "status_id": 187585531,
+            "battery_level": 35,
+            "received_status_at": "2022-04-20 03:56:01.061063"
+        },
+        {
+            "status_id": 187585695,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 03:57:05.610580"
+        },
+        {
+            "status_id": 187591679,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 06:00:07.360657"
+        },
+        {
+            "status_id": 187673268,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 11:30:11.151040"
+        },
+        {
+            "status_id": 187716344,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 13:33:15.028206"
+        },
+        {
+            "status_id": 187759793,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 15:37:19.476646"
+        },
+        {
+            "status_id": 187803117,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 17:40:26.180046"
+        },
+        {
+            "status_id": 187846724,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 19:43:26.717615"
+        },
+        {
+            "status_id": 187890589,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 21:47:28.498380"
+        },
+        {
+            "status_id": 187933865,
+            "battery_level": 34,
+            "received_status_at": "2022-04-20 23:50:31.248442"
+        },
+        {
+            "status_id": 187976913,
+            "battery_level": 34,
+            "received_status_at": "2022-04-21 01:52:34.229209"
+        },
+        {
+            "status_id": 188004572,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 03:56:38.294122"
+        },
+        {
+            "status_id": 188010772,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 05:59:40.121291"
+        },
+        {
+            "status_id": 188080841,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 10:57:45.945365"
+        },
+        {
+            "status_id": 188112581,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 12:27:49.923155"
+        },
+        {
+            "status_id": 188156245,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 14:31:52.878800"
+        },
+        {
+            "status_id": 188199789,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 16:34:56.131171"
+        },
+        {
+            "status_id": 188243284,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 18:37:57.943703"
+        },
+        {
+            "status_id": 188286159,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 20:42:02.092321"
+        },
+        {
+            "status_id": 188328765,
+            "battery_level": 33,
+            "received_status_at": "2022-04-21 22:45:04.715589"
+        },
+        {
+            "status_id": 188372237,
+            "battery_level": 33,
+            "received_status_at": "2022-04-22 00:48:10.253047"
+        },
+        {
+            "status_id": 188415037,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 02:52:12.461428"
+        },
+        {
+            "status_id": 188427678,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 04:55:16.390753"
+        },
+        {
+            "status_id": 188499719,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 10:58:22.209419"
+        },
+        {
+            "status_id": 188531424,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 12:28:24.356019"
+        },
+        {
+            "status_id": 188575203,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 14:32:28.810616"
+        },
+        {
+            "status_id": 188618692,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 16:35:32.104539"
+        },
+        {
+            "status_id": 188661739,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 18:37:35.378151"
+        },
+        {
+            "status_id": 188705535,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 20:41:37.791976"
+        },
+        {
+            "status_id": 188749028,
+            "battery_level": 32,
+            "received_status_at": "2022-04-22 22:44:41.795155"
+        },
+        {
+            "status_id": 188792455,
+            "battery_level": 32,
+            "received_status_at": "2022-04-23 00:47:44.454197"
+        },
+        {
+            "status_id": 188834923,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 02:51:48.273847"
+        },
+        {
+            "status_id": 188847363,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 04:54:52.142116"
+        },
+        {
+            "status_id": 188917991,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 10:57:57.640969"
+        },
+        {
+            "status_id": 188949232,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 12:28:01.350131"
+        },
+        {
+            "status_id": 188992454,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 14:32:05.156135"
+        },
+        {
+            "status_id": 189035550,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 16:35:08.916726"
+        },
+        {
+            "status_id": 189078523,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 18:38:13.350287"
+        },
+        {
+            "status_id": 189121863,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 20:42:17.175520"
+        },
+        {
+            "status_id": 189165009,
+            "battery_level": 31,
+            "received_status_at": "2022-04-23 22:45:19.454843"
+        },
+        {
+            "status_id": 189207984,
+            "battery_level": 31,
+            "received_status_at": "2022-04-24 00:48:23.638067"
+        },
+        {
+            "status_id": 189250348,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 02:52:28.147960"
+        },
+        {
+            "status_id": 189262667,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 04:55:30.474897"
+        },
+        {
+            "status_id": 189334108,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 10:57:35.485793"
+        },
+        {
+            "status_id": 189365796,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 12:27:40.924347"
+        },
+        {
+            "status_id": 189409220,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 14:31:42.561306"
+        },
+        {
+            "status_id": 189452552,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 16:34:44.522428"
+        },
+        {
+            "status_id": 189495840,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 18:37:48.783253"
+        },
+        {
+            "status_id": 189539521,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 20:41:55.023620"
+        },
+        {
+            "status_id": 189582918,
+            "battery_level": 30,
+            "received_status_at": "2022-04-24 22:44:57.164969"
+        },
+        {
+            "status_id": 189626201,
+            "battery_level": 30,
+            "received_status_at": "2022-04-25 00:48:00.900311"
+        },
+        {
+            "status_id": 189668663,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 02:52:01.955989"
+        },
+        {
+            "status_id": 189681050,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 04:55:06.034245"
+        },
+        {
+            "status_id": 189752690,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 10:58:12.145225"
+        },
+        {
+            "status_id": 189784355,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 12:28:13.682539"
+        },
+        {
+            "status_id": 189827860,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 14:32:18.128808"
+        },
+        {
+            "status_id": 189871169,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 16:35:23.739581"
+        },
+        {
+            "status_id": 189914311,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 18:38:25.130118"
+        },
+        {
+            "status_id": 189957830,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 20:42:29.212509"
+        },
+        {
+            "status_id": 190001202,
+            "battery_level": 29,
+            "received_status_at": "2022-04-25 22:45:30.372322"
+        },
+        {
+            "status_id": 190044642,
+            "battery_level": 29,
+            "received_status_at": "2022-04-26 00:47:36.207813"
+        },
+        {
+            "status_id": 190087408,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 02:51:36.777565"
+        },
+        {
+            "status_id": 190100475,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 04:54:40.855100"
+        },
+        {
+            "status_id": 190172616,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 10:57:46.334239"
+        },
+        {
+            "status_id": 190204280,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 12:27:50.067207"
+        },
+        {
+            "status_id": 190247817,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 14:31:55.403540"
+        },
+        {
+            "status_id": 190291235,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 16:34:57.805386"
+        },
+        {
+            "status_id": 190334694,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 18:38:02.144278"
+        },
+        {
+            "status_id": 190378842,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 20:42:04.921806"
+        },
+        {
+            "status_id": 190423079,
+            "battery_level": 28,
+            "received_status_at": "2022-04-26 22:45:09.462663"
+        },
+        {
+            "status_id": 190467062,
+            "battery_level": 28,
+            "received_status_at": "2022-04-27 00:48:10.613935"
+        },
+        {
+            "status_id": 190510036,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 02:52:15.073045"
+        },
+        {
+            "status_id": 190522834,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 04:55:18.902555"
+        },
+        {
+            "status_id": 190594731,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 10:58:24.510577"
+        },
+        {
+            "status_id": 190626439,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 12:28:28.166681"
+        },
+        {
+            "status_id": 190670090,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 14:32:32.419716"
+        },
+        {
+            "status_id": 190713364,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 16:34:34.670926"
+        },
+        {
+            "status_id": 190757184,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 18:37:38.746599"
+        },
+        {
+            "status_id": 190801657,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 20:41:42.088431"
+        },
+        {
+            "status_id": 190845738,
+            "battery_level": 27,
+            "received_status_at": "2022-04-27 22:44:50.742785"
+        },
+        {
+            "status_id": 190889920,
+            "battery_level": 27,
+            "received_status_at": "2022-04-28 00:47:47.664920"
+        },
+        {
+            "status_id": 190933301,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 02:51:52.023029"
+        },
+        {
+            "status_id": 190946524,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 04:54:55.700073"
+        },
+        {
+            "status_id": 191018154,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 10:58:00.866331"
+        },
+        {
+            "status_id": 191049741,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 12:28:04.537921"
+        },
+        {
+            "status_id": 191093251,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 14:32:09.260574"
+        },
+        {
+            "status_id": 191136810,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 16:35:13.213042"
+        },
+        {
+            "status_id": 191180347,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 18:38:25.615781"
+        },
+        {
+            "status_id": 191224031,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 20:42:19.481157"
+        },
+        {
+            "status_id": 191267332,
+            "battery_level": 26,
+            "received_status_at": "2022-04-28 22:45:20.652382"
+        },
+        {
+            "status_id": 191310660,
+            "battery_level": 26,
+            "received_status_at": "2022-04-29 00:48:24.944479"
+        },
+        {
+            "status_id": 191353594,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 02:52:29.719646"
+        },
+        {
+            "status_id": 191366721,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 04:55:31.906669"
+        },
+        {
+            "status_id": 191438154,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 10:57:36.305217"
+        },
+        {
+            "status_id": 191469715,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 12:27:40.050219"
+        },
+        {
+            "status_id": 191513071,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 14:31:42.991375"
+        },
+        {
+            "status_id": 191556544,
+            "battery_level": 25,
+            "received_status_at": "2022-04-29 16:34:47.837629"
+        }
+    ]
+}
