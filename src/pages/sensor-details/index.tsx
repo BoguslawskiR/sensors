@@ -1,8 +1,7 @@
-import { TabPanelUnstyled } from "@mui/base";
 import { TabList } from "@mui/lab";
 import TabContext from "@mui/lab/TabContext";
 import TabPanel from '@mui/lab/TabPanel';
-import { Tab, Tabs, Typography } from "@mui/material";
+import { Paper, Tab, Tabs, Typography } from "@mui/material";
 import Box from "@mui/system/Box";
 import { DateTime } from "luxon";
 import { useEffect, useMemo, useState } from "react";
@@ -10,6 +9,7 @@ import { useParams } from "react-router-dom";
 import sensorsService from "../../api/sensorsService";
 import WarnBar from "../../components/WarnBar";
 import { SensorData } from "../../types/sensorData";
+import Metrics from "./components/Metrics";
 import isEnoughStatuses from "./helpers/isEnoughStatuses";
 import truncateData from "./helpers/truncateData";
 
@@ -36,11 +36,11 @@ const SensorDetails = () => {
                 <Tab label="Metrics" value="2" />
             </TabList>
             <TabPanel value="1">
-                <Box sx={{ display: 'flex', flexDirection: 'column' }}>
+                <Paper sx={{ display: 'flex', flexDirection: 'column' }}>
                     {truncatedData.map((data) => {
                         const formatedTime = DateTime.fromJSDate(new Date(data.received_status_at)).toFormat('yyyy LLL dd HH:mm')
 
-                        return <Box sx={{ display: 'flex', justifyContent: 'space-between', p: 1 }}>
+                        return <Box sx={{ display: 'flex', justifyContent: 'space-between', px: 2, py: 1, borderBottom: '1px solid #f0f0f0' }}>
                             <Typography>{formatedTime}</Typography>
                             <Typography>{data.battery_level}%</Typography>
                         </Box>;
@@ -48,11 +48,11 @@ const SensorDetails = () => {
                     {!hasEnoughStatuses && <Box sx={{ p: 1, backgroundColor: 'lightgrey' }}>
                         <Typography>Not enough statuses</Typography>
                     </Box>}
-                </Box>
+                </Paper>
             </TabPanel>
             <TabPanel value="2">
                 <Box sx={{ display: 'flex', flexDirection: 'column' }}>
-                    <Typography>METRICS</Typography>
+                    <Metrics data={truncatedData} />
                 </Box>
             </TabPanel>
         </TabContext>
