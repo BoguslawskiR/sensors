@@ -29,7 +29,7 @@ const SensorsList: FC = () => {
                 </TableHead>
                 <TableBody>
                     {filteredList.map((sensorEntry) => (
-                        <SensorRow key={sensorEntry.id} sensorEntry={sensorEntry} />
+                        <SensorRow data-testid="entry" key={sensorEntry.id} sensorEntry={sensorEntry} />
                     ))}
                 </TableBody>
             </Table>
