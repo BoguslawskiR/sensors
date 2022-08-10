@@ -1,5 +1,5 @@
-import { act, render, screen } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
+import { act, render, screen } from '@testing-library/react';
 import SensorsList from '..';
 
 describe('Pages / Sensors List', () => {

@@ -14,7 +14,6 @@ const root = ReactDOM.createRoot(
 );
 
 prepareWorker().then(() => {
-  console.log('RENDER');
   root.render(
     <React.StrictMode>
       <App />

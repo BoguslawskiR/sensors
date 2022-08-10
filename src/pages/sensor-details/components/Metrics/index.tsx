@@ -1,4 +1,6 @@
 import { FC } from 'react';
+import { DateTime } from 'luxon';
+import Box from '@mui/material/Box';
 import {
     AnimatedAxis,
     AnimatedGrid,
@@ -8,8 +10,6 @@ import {
     lightTheme,
 } from '@visx/xychart';
 import { SensorData } from '../../../../types/sensorData';
-import { DateTime } from 'luxon';
-import Box from '@mui/material/Box';
 
 interface MetricsProps {
     data: SensorData[];

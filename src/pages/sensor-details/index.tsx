@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import { TabList } from "@mui/lab";
 import TabContext from "@mui/lab/TabContext";
 import TabPanel from '@mui/lab/TabPanel';
-import { Paper, Tab, Tabs, Typography } from "@mui/material";
+import { Paper, Tab, Typography } from "@mui/material";
 import Box from "@mui/system/Box";
 import sensorsService from "../../api/sensorsService";
 import WarnBar from "../../components/WarnBar";
@@ -25,11 +25,15 @@ const SensorDetails = () => {
 
     const barMessages = useMemo(() => {
         const messages = [];
+        const lastData = truncatedData[truncatedData.length - 1];
         if (currentBatteryLevel < 10) {
             messages.push({ bg: 'yellow', text: 'LOW BATTERY LEVEL' });
         }
+        if (lastData && DateTime.fromJSDate(new Date(lastData.received_status_at)).diffNow('hours').hours < -1) {
+            messages.push({ bg: 'red', text: 'HAVEN\'T RECIVED LATEST UPDATE' })
+        }
         return messages;
-    }, [currentBatteryLevel]);
+    }, [currentBatteryLevel, truncatedData]);
 
     useEffect(() => {
         if (!id) return;
@@ -40,32 +44,34 @@ const SensorDetails = () => {
 
     return <>
         <WarnBar messages={barMessages} />
-        <TabContext value={tab}>
-            <TabList onChange={(_, value) => setTab(value)}>
-                <Tab label="General" value="1" />
-                <Tab label="Metrics" value="2" />
-            </TabList>
-            <TabPanel value="1">
-                <Paper sx={{ display: 'flex', flexDirection: 'column' }}>
-                    {truncatedData.map((data) => {
-                        const formatedTime = DateTime.fromJSDate(new Date(data.received_status_at)).toFormat('yyyy LLL dd HH:mm')
+        <Box sx={{ mt: `${barMessages.length * 56}px` }}>
+            <TabContext value={tab}>
+                <TabList onChange={(_, value) => setTab(value)}>
+                    <Tab label="General" value="1" />
+                    <Tab label="Metrics" value="2" />
+                </TabList>
+                <TabPanel value="1">
+                    <Paper sx={{ display: 'flex', flexDirection: 'column' }}>
+                        {truncatedData.map((data) => {
+                            const formatedTime = DateTime.fromJSDate(new Date(data.received_status_at)).toFormat('yyyy LLL dd HH:mm')
 
-                        return <Box sx={{ display: 'flex', justifyContent: 'space-between', px: 2, py: 1, borderBottom: '1px solid #f0f0f0' }}>
-                            <Typography>{formatedTime}</Typography>
-                            <Typography>{data.battery_level}%</Typography>
-                        </Box>;
-                    })}
-                    {!hasEnoughStatuses && <Box sx={{ p: 1, backgroundColor: 'lightgrey' }}>
-                        <Typography>Not enough statuses</Typography>
-                    </Box>}
-                </Paper>
-            </TabPanel>
-            <TabPanel value="2">
-                <Box sx={{ display: 'flex', flexDirection: 'column' }}>
-                    <Metrics data={truncatedData} />
-                </Box>
-            </TabPanel>
-        </TabContext>
+                            return <Box sx={{ display: 'flex', justifyContent: 'space-between', px: 2, py: 1, borderBottom: '1px solid #f0f0f0' }}>
+                                <Typography>{formatedTime}</Typography>
+                                <Typography>{data.battery_level}%</Typography>
+                            </Box>;
+                        })}
+                        {!hasEnoughStatuses && <Box sx={{ p: 1, backgroundColor: 'lightgrey' }}>
+                            <Typography>Not enough statuses</Typography>
+                        </Box>}
+                    </Paper>
+                </TabPanel>
+                <TabPanel value="2">
+                    <Box sx={{ display: 'flex', flexDirection: 'column' }}>
+                        <Metrics data={truncatedData} />
+                    </Box>
+                </TabPanel>
+            </TabContext>
+        </Box>
     </>
 };
 

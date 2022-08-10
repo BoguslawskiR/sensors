@@ -1,8 +1,8 @@
-import { Link, TableCell, TableRow } from "@mui/material"
 import { FC } from "react";
 import { DateTime } from 'luxon';
-import { SensorEntry } from "../../../../types/sensors";
 import { useNavigate } from "react-router-dom";
+import { Link, TableCell, TableRow } from "@mui/material"
+import { SensorEntry } from "../../../../types/sensors";
 
 interface SensorRowProps {
     sensorEntry: SensorEntry;

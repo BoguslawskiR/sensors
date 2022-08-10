@@ -24,6 +24,12 @@ describe('Page / Sensors List / hooks', () => {
             })
     
             expect(result.current[0]).toHaveLength(1);
+
+            act(() => {
+                result.current[1]('4644');
+            })
+
+            expect(result.current[0]).toHaveLength(0);
         })
     })
 })
