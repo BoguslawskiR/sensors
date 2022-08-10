@@ -1,11 +1,11 @@
+import { useEffect, useMemo, useState } from "react";
+import { DateTime } from "luxon";
+import { useParams } from "react-router-dom";
 import { TabList } from "@mui/lab";
 import TabContext from "@mui/lab/TabContext";
 import TabPanel from '@mui/lab/TabPanel';
 import { Paper, Tab, Tabs, Typography } from "@mui/material";
 import Box from "@mui/system/Box";
-import { DateTime } from "luxon";
-import { useEffect, useMemo, useState } from "react";
-import { useParams } from "react-router-dom";
 import sensorsService from "../../api/sensorsService";
 import WarnBar from "../../components/WarnBar";
 import { SensorData } from "../../types/sensorData";
@@ -21,6 +21,16 @@ const SensorDetails = () => {
     const truncatedData = useMemo(() => truncateData(sensorDetails), [sensorDetails]);
     const hasEnoughStatuses = useMemo(() => isEnoughStatuses(sensorDetails), [sensorDetails]);
 
+    const currentBatteryLevel = truncatedData[truncatedData.length - 1]?.battery_level;
+
+    const barMessages = useMemo(() => {
+        const messages = [];
+        if (currentBatteryLevel < 10) {
+            messages.push({ bg: 'yellow', text: 'LOW BATTERY LEVEL' });
+        }
+        return messages;
+    }, [currentBatteryLevel]);
+
     useEffect(() => {
         if (!id) return;
         sensorsService.getSensor(id).then((data) => {
@@ -29,7 +39,7 @@ const SensorDetails = () => {
     }, [id]);
 
     return <>
-        <WarnBar messages={[{ bg: 'yellow', text: 'TEST BAR' }]} />
+        <WarnBar messages={barMessages} />
         <TabContext value={tab}>
             <TabList onChange={(_, value) => setTab(value)}>
                 <Tab label="General" value="1" />
@@ -56,7 +66,6 @@ const SensorDetails = () => {
                 </Box>
             </TabPanel>
         </TabContext>
-        <div />
     </>
 };
 
